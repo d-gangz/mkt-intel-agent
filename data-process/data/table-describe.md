@@ -10,10 +10,12 @@ Target Use: Process guide for LLM to analyze CSV files and create structured met
 
 ## Task Overview
 
-Analyze the provided CSV file and generate a comprehensive JSON object that will be added to the `data_db.json` registry. This JSON object enables the LLM agent to:
-1. **Discover** the table when processing user queries (via searchable text description)
+Analyze the provided data file (CSV or XLSX) and generate a comprehensive JSON object that will be added to the `data_db.json` registry. This JSON object enables the LLM agent to:
+1. **Discover** the database when processing user queries (via searchable text description)
 2. **Understand** the table structure and columns (via detailed schema)
 3. **Generate** accurate SQL queries (via schema with types, descriptions, and examples)
+
+**Note**: For XLSX files with multiple sheets, each sheet becomes a separate table within the same database. For CSV files, there is a single table named "data".
 
 ## Required Output Format
 
@@ -21,27 +23,46 @@ Generate a single JSON object with the following structure:
 
 ```json
 {
-  "table_id": "TBL00X",
-  "file_name": "exact-filename.csv",
-  "text": "Comprehensive searchable description...",
-  "schema": "Markdown-formatted schema (see below)"
+  "database_id": "DB00X",
+  "database_name": "filename-without-extension",
+  "source_file": "exact-filename.csv or exact-filename.xlsx",
+  "text": "Comprehensive searchable description of the entire database...",
+  "tables": [
+    {
+      "table_name": "data (for CSV) or sheet_name (for XLSX)",
+      "sheet_name": "SheetName (XLSX only - optional field)",
+      "text": "Description of this specific table...",
+      "schema": "Markdown-formatted schema (see below)"
+    }
+  ]
 }
 ```
 
+**For CSV files**: Create one table entry with `table_name: "data"`
+**For XLSX files**: Create one table entry per sheet with `table_name` matching the sheet name, and include optional `sheet_name` field
+
 ## Field Requirements
 
-### 1. `table_id` (String)
-- Format: `TBL001`, `TBL002`, `TBL003`, etc.
-- Increment from the last table_id in the existing `data_db.json` file
-- **Action**: Check the current highest table_id and increment by 1
+### 1. `database_id` (String)
+- Format: `DB001`, `DB002`, `DB003`, etc.
+- Increment from the last database_id in the existing `data_db.json` file
+- **Action**: Check the current highest database_id and increment by 1
 
-### 2. `file_name` (String)
-- Exact filename of the CSV file including extension
-- Example: `owid-co2-data.csv`
+### 2. `database_name` (String)
+- Filename without extension (this becomes the SQLite database filename)
+- Example: `owid-co2-data` (from `owid-co2-data.csv`)
+- Example: `financial-data` (from `financial-data.xlsx`)
 
-### 3. `text` (String) - **CRITICAL FOR SEARCHABILITY**
+### 3. `source_file` (String)
+- Exact filename including extension
+- Example: `owid-co2-data.csv` or `financial-data.xlsx`
 
-This field is the **primary discovery mechanism**. It must be extremely comprehensive and keyword-rich.
+### 4. `text` (String) - **CRITICAL FOR DATABASE-LEVEL SEARCHABILITY**
+
+This field is the **primary discovery mechanism** at the database level. It must be extremely comprehensive and keyword-rich, describing what the entire database contains.
+
+**For CSV files**: Describe the single table's contents
+**For XLSX files**: Describe all sheets/tables collectively, mentioning what data domains they cover
 
 **Structure your text with these sections:**
 
@@ -91,9 +112,28 @@ This is **extremely important**. List 30-50+ specific example questions using na
 - Aggregation queries (totals, averages, sums)
 - Relationship queries (correlation, dependency)
 
-**Goal**: Maximum keyword density and query pattern coverage so the LLM can easily match user questions to this table.
+**Goal**: Maximum keyword density and query pattern coverage so the LLM can easily match user questions to this database.
 
-### 4. `schema` (String - Markdown Format)
+### 5. `tables` (Array of Table Objects)
+
+Each table object in the array contains:
+
+#### 5.1 `table_name` (String)
+- **For CSV**: Always `"data"`
+- **For XLSX**: Use the sheet name (e.g., `"Revenue"`, `"Expenses"`, `"Forecasts"`)
+- This becomes the actual SQL table name in the database
+
+#### 5.2 `sheet_name` (String - Optional, XLSX only)
+- Original sheet name from the XLSX file
+- Helps trace back to the source
+- Omit this field for CSV files
+
+#### 5.3 `text` (String)
+- Table-level description: what this specific table contains
+- For CSV: Similar to database-level but focused on the single table
+- For XLSX: Focused description of what this particular sheet/table contains
+
+#### 5.4 `schema` (String - Markdown Format)
 
 The schema should be formatted as **well-structured Markdown text** for token efficiency and readability.
 
@@ -238,7 +278,9 @@ Each query should:
 
 ## Analysis Process
 
-### Step 1: Load and Inspect the CSV
+### Step 1: Load and Inspect the Data File
+
+**For CSV:**
 ```python
 import pandas as pd
 
@@ -256,6 +298,23 @@ print(f"\nUnique values in key columns:")
 for col in ['country', 'year', 'category']:  # Adjust as needed
     if col in df.columns:
         print(f"{col}: {df[col].nunique()} unique values")
+```
+
+**For XLSX:**
+```python
+import pandas as pd
+
+# First, see what sheets exist
+xlsx_file = pd.ExcelFile('filename.xlsx')
+print(f"Sheets: {xlsx_file.sheet_names}")
+
+# Then load each sheet
+for sheet_name in xlsx_file.sheet_names:
+    df = pd.read_excel(xlsx_file, sheet_name=sheet_name)
+    print(f"\n=== Sheet: {sheet_name} ===")
+    print(f"Shape: {df.shape}")
+    print(f"Columns: {df.columns.tolist()}")
+    print(f"Sample:\n{df.head()}")
 ```
 
 ### Step 2: Identify Data Structure
@@ -279,11 +338,15 @@ Group columns by type:
 - **Context**: Demographics, economics
 
 ### Step 4: Generate Comprehensive Text
-Follow the structure outlined above. Think about:
-- How would users describe this data in questions?
-- What keywords would they use?
-- What comparisons would they want?
-- What trends would they analyze?
+
+**Database-level `text`**: Describe the overall purpose and scope of the database
+- For CSV: What domain/topic does this data cover?
+- For XLSX: What domains/topics do all sheets collectively cover?
+
+**Table-level `text`**: Describe what each specific table contains
+- Focus on the unique aspects of this table
+- How does it relate to other tables (for XLSX)?
+- What specific queries would target this table?
 
 ### Step 5: Create Schema
 Map pandas dtypes to SQL types:
@@ -300,12 +363,19 @@ Think about the 5-10 most common questions users would ask about this data, and 
 
 Before submitting the JSON object:
 
-- [ ] `table_id` increments from existing tables in data_db.json
-- [ ] `file_name` is exact CSV filename with extension
-- [ ] `text` is 500+ words with rich keywords and 30+ example questions
-- [ ] `text` includes CAPITALIZED SECTION HEADERS for organization
+- [ ] `database_id` increments from existing databases in data_db.json
+- [ ] `database_name` is filename without extension
+- [ ] `source_file` is exact filename with extension (.csv or .xlsx)
+- [ ] Database-level `text` is 500+ words with rich keywords and 30+ example questions
+- [ ] Database-level `text` includes CAPITALIZED SECTION HEADERS for organization
+- [ ] `tables` array contains:
+  - [ ] One entry for CSV (table_name: "data")
+  - [ ] One entry per sheet for XLSX (table_name: sheet name)
+- [ ] Each table object has: `table_name`, `text`, `schema`
+- [ ] XLSX table objects also have: `sheet_name` (optional but recommended)
+- [ ] Table-level `text` describes what that specific table contains
 - [ ] `schema` is formatted as Markdown string (not JSON object)
-- [ ] `schema` starts with `# Table: table_name`
+- [ ] `schema` starts with `# Table: {table_name}`
 - [ ] Columns table has 20-50+ important columns
 - [ ] Each column row has: name, type, description, unit
 - [ ] Units are included or marked with `-`
@@ -318,7 +388,7 @@ Before submitting the JSON object:
 
 ## Output Instructions
 
-1. **Analyze the provided CSV file** using the process above
+1. **Analyze the provided data file** (CSV or XLSX) using the process above
 2. **Generate the complete JSON object** following all requirements
 3. **Output ONLY the JSON object** (no additional commentary)
 4. **Ensure valid JSON formatting** (proper quotes, commas, brackets)
@@ -327,9 +397,45 @@ Before submitting the JSON object:
 ## Example Reference
 
 See the existing entry for `owid-co2-data.csv` in `data_db.json` as a reference for:
-- Comprehensive `text` field structure
+- Database structure with `database_id`, `database_name`, `source_file`
+- Comprehensive database-level `text` field structure
+- `tables` array with table objects
+- Table-level `text` and `schema` structure
 - Detailed column schema
 - Helpful notes
 - Realistic example queries
 
 Your output should match or exceed this level of detail and searchability.
+
+## Multi-Table XLSX Example Structure
+
+For an XLSX file named `financial-data.xlsx` with sheets "Revenue", "Expenses", "Forecasts":
+
+```json
+{
+  "database_id": "DB002",
+  "database_name": "financial-data",
+  "source_file": "financial-data.xlsx",
+  "text": "Company financial data including revenue, expenses, and forecasts for 2020-2025...",
+  "tables": [
+    {
+      "table_name": "Revenue",
+      "sheet_name": "Revenue",
+      "text": "Monthly revenue data by product line...",
+      "schema": "# Table: Revenue\n\n..."
+    },
+    {
+      "table_name": "Expenses",
+      "sheet_name": "Expenses",
+      "text": "Operating expenses by department...",
+      "schema": "# Table: Expenses\n\n..."
+    },
+    {
+      "table_name": "Forecasts",
+      "sheet_name": "Forecasts",
+      "text": "Revenue and expense projections...",
+      "schema": "# Table: Forecasts\n\n..."
+    }
+  ]
+}
+```
