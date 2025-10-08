@@ -1,0 +1,1715 @@
+{
+  "duration": 23.94776678085327,
+  "job_id": "cc8e6994-5c85-4d68-b1e7-55bc766efe88",
+  "result": {
+    "chunks": [
+      {
+        "blocks": [
+          {
+            "bbox": {
+              "height": 0.019289340101522844,
+              "left": 0.05847568988173456,
+              "page": 1,
+              "top": 0.047715736040609136,
+              "width": 0.4231274638633377,
+              "original_page": 1
+            },
+            "content": "CO2 and Greenhouse Gas Emissions",
+            "type": "Title",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8440202206373215
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007106598984771574,
+              "left": 0.05847568988173456,
+              "page": 1,
+              "top": 0.08477157360406092,
+              "width": 0.23587385019710908,
+              "original_page": 1
+            },
+            "content": "By: Hannah Ritchie, Pablo Rosado, and Max Roser",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6664634376764298
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.006598984771573604,
+              "left": 0.07161629434954007,
+              "page": 1,
+              "top": 0.10710659898477157,
+              "width": 0.18134034165571616,
+              "original_page": 1
+            },
+            "content": "Cite this work Reuse this work",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5949958726763724
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01015228426395939,
+              "left": 0.05781865965834428,
+              "page": 1,
+              "top": 0.14568527918781726,
+              "width": 0.4743758212877792,
+              "original_page": 1
+            },
+            "content": "Introduction Key Insights Data Explorer Research & Writing Charts",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.38275135047733777
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.028426395939086295,
+              "left": 0.11957950065703023,
+              "page": 1,
+              "top": 0.18578680203045686,
+              "width": 0.35216819973718794,
+              "original_page": 1
+            },
+            "content": "Human emissions of greenhouse gases are the primary driver of climate change today.¹",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7246326178312301
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.09847715736040609,
+              "left": 0.11892247043363995,
+              "page": 1,
+              "top": 0.23299492385786802,
+              "width": 0.3455978975032852,
+              "original_page": 1
+            },
+            "content": "CO2 and other greenhouse gases like methane and nitrous oxide are emitted when we burn fossil fuels, produce materials such as steel, cement, and plastics, and grow the food we eat. If we want to reduce these emissions, we need to transform our energy systems, industries, and food systems.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.815699577331543
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04568527918781726,
+              "left": 0.11892247043363995,
+              "page": 1,
+              "top": 0.34974619289340103,
+              "width": 0.3363994743758213,
+              "original_page": 1
+            },
+            "content": "- At the same time, we need to tackle energy poverty, low standards of living, and poor nutrition, which all remain enormous problems for billions of people.",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6154988080263137
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.116751269035533,
+              "left": 0.11892247043363995,
+              "page": 1,
+              "top": 0.4131979695431472,
+              "width": 0.3508541392904074,
+              "original_page": 1
+            },
+            "content": "Technological advances could allow us to do both. The prices of solar, wind, and batteries have plummeted in recent decades, increasingly undercutting the cost of fossil fuel alternatives. Further progress could allow us to provide cheap, clean energy for everyone. Political change is essential to create a system that supports rapid decarbonization.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6812777072191238
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.09796954314720813,
+              "left": 0.11892247043363995,
+              "page": 1,
+              "top": 0.5492385786802031,
+              "width": 0.35348226018396844,
+              "original_page": 1
+            },
+            "content": "Emissions are still rising in many parts of the world. However, several countries have managed to cut their emissions in recent decades. With affordable low- carbon technologies, other countries can increase their living standards without the high-carbon pathway that rich countries followed in the past.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9123728036880494
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.027918781725888325,
+              "left": 0.11892247043363995,
+              "page": 1,
+              "top": 0.665989847715736,
+              "width": 0.34888304862023656,
+              "original_page": 1
+            },
+            "content": "On this page, you can find our data, visualizations, and writing on CO2 and other greenhouse gas emissions.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9110729575157166
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.017766497461928935,
+              "left": 0.11957950065703023,
+              "page": 1,
+              "top": 0.7401015228426396,
+              "width": 0.5006570302233903,
+              "original_page": 1
+            },
+            "content": "Key Insights on CO2 and Greenhouse Gas Emissions",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8550049185752869
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04060913705583756,
+              "left": 0.13994743758212877,
+              "page": 1,
+              "top": 0.7949238578680203,
+              "width": 0.1609724047306176,
+              "original_page": 1
+            },
+            "content": "Human greenhouse gas\nemissions have increased\nglobal average temperatures",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9471807211637497
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05431472081218274,
+              "left": 0.3508541392904074,
+              "page": 1,
+              "top": 0.7888324873096447,
+              "width": 0.1504599211563732,
+              "original_page": 1
+            },
+            "content": "Global emissions have\nincreased rapidly over the\nlast 50 years and have not\nyet peaked",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9365845561027527
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05482233502538071,
+              "left": 0.5611038107752957,
+              "page": 1,
+              "top": 0.7883248730964467,
+              "width": 0.1583442838370565,
+              "original_page": 1
+            },
+            "content": "Current climate policies will\nreduce emissions, but not\nenough to keep\ntemperature rise below 2°C",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9380751341581345
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03756345177664975,
+              "left": 0.7720105124835742,
+              "page": 1,
+              "top": 0.7964467005076142,
+              "width": 0.08015768725361366,
+              "original_page": 1
+            },
+            "content": "There are larg\n\nin emissions a\n\nworld",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9146498382091522
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007614213197969543,
+              "left": 0.18199737187910645,
+              "page": 2,
+              "top": 0.03451776649746193,
+              "width": 0.32588699080157685,
+              "original_page": 2
+            },
+            "content": "see this distribution in maps published by Berkeley Earth.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8030569076538085
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03959390862944162,
+              "left": 0.18134034165571616,
+              "page": 2,
+              "top": 0.0583756345177665,
+              "width": 0.5932982917214192,
+              "original_page": 2
+            },
+            "content": "Human emissions have been the main driver of this change. Aerosols have played a slight cooling role in global climate, and natural variability has played a minor role. This article from Carbon Brief explains this very well, with interactive graphics showing the relative contributions of different factors to the climate.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9667315602302551
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.005583756345177665,
+              "left": 0.3528252299605782,
+              "page": 2,
+              "top": 0.1350253807106599,
+              "width": 0.26544021024967146,
+              "original_page": 2
+            },
+            "content": "WHAT YOU SHOULD KNOW ABOUT THIS DATA",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7944433480501174
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03908629441624366,
+              "left": 0.20630749014454666,
+              "page": 2,
+              "top": 0.17766497461928935,
+              "width": 0.5459921156373193,
+              "original_page": 2
+            },
+            "content": "• This data comes from the United Kingdom's Met Office and combines air and sea surface temperatures in the Northern and Southern Hemispheres. It is called the \"HadCRUT\" (Hadley Centre/Climatic Research Unit Temperature) dataset.³",
+            "type": "List Item",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8857983112335206
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.008629441624365483,
+              "left": 0.20696452036793692,
+              "page": 2,
+              "top": 0.22791878172588834,
+              "width": 0.42378449408672797,
+              "original_page": 2
+            },
+            "content": "• It measures temperature anomalies across the world at high resolutions.",
+            "type": "List Item",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8452472567558289
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.024365482233502538,
+              "left": 0.20565045992115638,
+              "page": 2,
+              "top": 0.2482233502538071,
+              "width": 0.5611038107752957,
+              "original_page": 2
+            },
+            "content": "• There is very strong agreement in temperature trends across the large global datasets measured and produced by other leading institutions.",
+            "type": "List Item",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8747811675071716
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02081218274111675,
+              "left": 0.11957950065703023,
+              "page": 2,
+              "top": 0.35279187817258884,
+              "width": 0.48488830486202367,
+              "original_page": 2
+            },
+            "content": "Annual temperature anomalies relative to the pre-industrial period, World The difference in average land-sea surface temperature compared to the 1861-1890 mean, in degrees Celsius.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6462985515594483
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.014763722685993021,
+              "left": 0.6509842139505996,
+              "page": 2,
+              "top": 0.35212188565791563,
+              "width": 0.0414665312397339,
+              "original_page": 2
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.44921536520123484
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.3442297301316624,
+              "left": 0.11576806167422081,
+              "page": 2,
+              "top": 0.35801369913943526,
+              "width": 0.5866404770238327,
+              "original_page": 2
+            },
+            "content": "The graph shows annual global temperature anomalies relative to the pre-industrial period, from 1850 to 2025. The red line represents the average temperature change, with an overall upward trend indicating increasing temperatures. The gray lines indicate the upper and lower bounds of temperature variations.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6384066730737685
+            },
+            "image_url": null
+          }
+        ],
+        "content": "# CO2 and Greenhouse Gas Emissions\n\nBy: Hannah Ritchie, Pablo Rosado, and Max Roser\n\nCite this work Reuse this work\n\nIntroduction Key Insights Data Explorer Research & Writing Charts\n\nHuman emissions of greenhouse gases are the primary driver of climate change today.¹\n\nCO2 and other greenhouse gases like methane and nitrous oxide are emitted when we burn fossil fuels, produce materials such as steel, cement, and plastics, and grow the food we eat. If we want to reduce these emissions, we need to transform our energy systems, industries, and food systems.\n\n- At the same time, we need to tackle energy poverty, low standards of living, and poor nutrition, which all remain enormous problems for billions of people.\n\nTechnological advances could allow us to do both. The prices of solar, wind, and batteries have plummeted in recent decades, increasingly undercutting the cost of fossil fuel alternatives. Further progress could allow us to provide cheap, clean energy for everyone. Political change is essential to create a system that supports rapid decarbonization.\n\nEmissions are still rising in many parts of the world. However, several countries have managed to cut their emissions in recent decades. With affordable low- carbon technologies, other countries can increase their living standards without the high-carbon pathway that rich countries followed in the past.\n\nOn this page, you can find our data, visualizations, and writing on CO2 and other greenhouse gas emissions.\n\n## Key Insights on CO2 and Greenhouse Gas Emissions\n\nHuman greenhouse gas\nemissions have increased\nglobal average temperatures\n\nGlobal emissions have\nincreased rapidly over the\nlast 50 years and have not\nyet peaked\n\nCurrent climate policies will\nreduce emissions, but not\nenough to keep\ntemperature rise below 2°C\n\nThere are larg\n\nin emissions a\n\nworld\n\nsee this distribution in maps published by Berkeley Earth.\n\nHuman emissions have been the main driver of this change. Aerosols have played a slight cooling role in global climate, and natural variability has played a minor role. This article from Carbon Brief explains this very well, with interactive graphics showing the relative contributions of different factors to the climate.\n\n## WHAT YOU SHOULD KNOW ABOUT THIS DATA\n\n• This data comes from the United Kingdom's Met Office and combines air and sea surface temperatures in the Northern and Southern Hemispheres. It is called the \"HadCRUT\" (Hadley Centre/Climatic Research Unit Temperature) dataset.³\n\n• It measures temperature anomalies across the world at high resolutions.\n\n• There is very strong agreement in temperature trends across the large global datasets measured and produced by other leading institutions.\n\nAnnual temperature anomalies relative to the pre-industrial period, World The difference in average land-sea surface temperature compared to the 1861-1890 mean, in degrees Celsius.\n\nOur World\nin Data\n\nThe graph shows annual global temperature anomalies relative to the pre-industrial period, from 1850 to 2025. The red line represents the average temperature change, with an overall upward trend indicating increasing temperatures. The gray lines indicate the upper and lower bounds of temperature variations.",
+        "embed": "# CO2 and Greenhouse Gas Emissions\n\nBy: Hannah Ritchie, Pablo Rosado, and Max Roser\n\nCite this work Reuse this work\n\nIntroduction Key Insights Data Explorer Research & Writing Charts\n\nHuman emissions of greenhouse gases are the primary driver of climate change today.¹\n\nCO2 and other greenhouse gases like methane and nitrous oxide are emitted when we burn fossil fuels, produce materials such as steel, cement, and plastics, and grow the food we eat. If we want to reduce these emissions, we need to transform our energy systems, industries, and food systems.\n\n- At the same time, we need to tackle energy poverty, low standards of living, and poor nutrition, which all remain enormous problems for billions of people.\n\nTechnological advances could allow us to do both. The prices of solar, wind, and batteries have plummeted in recent decades, increasingly undercutting the cost of fossil fuel alternatives. Further progress could allow us to provide cheap, clean energy for everyone. Political change is essential to create a system that supports rapid decarbonization.\n\nEmissions are still rising in many parts of the world. However, several countries have managed to cut their emissions in recent decades. With affordable low- carbon technologies, other countries can increase their living standards without the high-carbon pathway that rich countries followed in the past.\n\nOn this page, you can find our data, visualizations, and writing on CO2 and other greenhouse gas emissions.\n\n## Key Insights on CO2 and Greenhouse Gas Emissions\n\nHuman greenhouse gas\nemissions have increased\nglobal average temperatures\n\nGlobal emissions have\nincreased rapidly over the\nlast 50 years and have not\nyet peaked\n\nCurrent climate policies will\nreduce emissions, but not\nenough to keep\ntemperature rise below 2°C\n\nThere are larg\n\nin emissions a\n\nworld\n\nsee this distribution in maps published by Berkeley Earth.\n\nHuman emissions have been the main driver of this change. Aerosols have played a slight cooling role in global climate, and natural variability has played a minor role. This article from Carbon Brief explains this very well, with interactive graphics showing the relative contributions of different factors to the climate.\n\n## WHAT YOU SHOULD KNOW ABOUT THIS DATA\n\n• This data comes from the United Kingdom's Met Office and combines air and sea surface temperatures in the Northern and Southern Hemispheres. It is called the \"HadCRUT\" (Hadley Centre/Climatic Research Unit Temperature) dataset.³\n\n• It measures temperature anomalies across the world at high resolutions.\n\n• There is very strong agreement in temperature trends across the large global datasets measured and produced by other leading institutions.\n\nAnnual temperature anomalies relative to the pre-industrial period, World The difference in average land-sea surface temperature compared to the 1861-1890 mean, in degrees Celsius.\n\nOur World\nin Data\n\nThe graph shows annual global temperature anomalies relative to the pre-industrial period, from 1850 to 2025. The red line represents the average temperature change, with an overall upward trend indicating increasing temperatures. The gray lines indicate the upper and lower bounds of temperature variations.",
+        "enriched": null,
+        "enrichment_success": false
+      },
+      {
+        "blocks": [
+          {
+            "bbox": {
+              "height": 0.016751269035532996,
+              "left": 0.1202365308804205,
+              "page": 2,
+              "top": 0.7563451776649747,
+              "width": 0.46780551905387646,
+              "original_page": 2
+            },
+            "content": "Explore Data on CO2 and Greenhouse Gas Emissions",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8189535081386566
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.06091370558375635,
+              "left": 0.12614980289093297,
+              "page": 2,
+              "top": 0.8137055837563452,
+              "width": 0.12614980289093297,
+              "original_page": 2
+            },
+            "content": "CO2 and Greenhouse\nGas Emissions Data\nExplorer\nExplore data on greenhouse gas\nemissions.\nDownload this dataset",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8411275088787078
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.006598984771573604,
+              "left": 0.3028909329829172,
+              "page": 2,
+              "top": 0.8142131979695432,
+              "width": 0.07752956636005257,
+              "original_page": 2
+            },
+            "content": "GAS OR WARMING",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.46884138435125344
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.006598984771573604,
+              "left": 0.30814717477003944,
+              "page": 2,
+              "top": 0.833502538071066,
+              "width": 0.019053876478318004,
+              "original_page": 2
+            },
+            "content": "CO₂",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.2695419110357761
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.005076142131979695,
+              "left": 0.411957950065703,
+              "page": 2,
+              "top": 0.8152284263959391,
+              "width": 0.05913272010512484,
+              "original_page": 2
+            },
+            "content": "ACCOUNTING",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.45637834742665284
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007106598984771574,
+              "left": 0.411957950065703,
+              "page": 2,
+              "top": 0.8289340101522843,
+              "width": 0.059789750328515114,
+              "original_page": 2
+            },
+            "content": "O Territorial",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.2550846002995968
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.017766497461928935,
+              "left": 0.41130091984231276,
+              "page": 2,
+              "top": 0.8441624365482233,
+              "width": 0.0795006570302234,
+              "original_page": 2
+            },
+            "content": "O Consumption-\nbased",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.23867282979190346
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.014213197969543147,
+              "left": 0.5216819973718791,
+              "page": 2,
+              "top": 0.8152284263959391,
+              "width": 0.08278580814717477,
+              "original_page": 2
+            },
+            "content": "FUEL OR LAND USE\nCHANGE",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4754873558878899
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.005583756345177665,
+              "left": 0.5269382391590013,
+              "page": 2,
+              "top": 0.8421319796954315,
+              "width": 0.0657030223390276,
+              "original_page": 2
+            },
+            "content": "All fossil em...",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5046245887875557
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.004568527918781726,
+              "left": 0.6307490144546649,
+              "page": 2,
+              "top": 0.8152284263959391,
+              "width": 0.03088042049934297,
+              "original_page": 2
+            },
+            "content": "COUNT",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4354870222508907
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007614213197969543,
+              "left": 0.6366622864651774,
+              "page": 2,
+              "top": 0.8324873096446701,
+              "width": 0.08672798948751642,
+              "original_page": 2
+            },
+            "content": "Per capita ✓",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.2687542248517275
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.006091370558375634,
+              "left": 0.7568988173455979,
+              "page": 2,
+              "top": 0.8299492385786802,
+              "width": 0.07424441524310119,
+              "original_page": 2
+            },
+            "content": "Relative to world",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4136073991656303
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.005076142131979695,
+              "left": 0.7398160315374507,
+              "page": 2,
+              "top": 0.8406091370558376,
+              "width": 0.019053876478318004,
+              "original_page": 2
+            },
+            "content": "total",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.38598882164806125
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.017766497461928935,
+              "left": 0.12614980289093297,
+              "page": 2,
+              "top": 0.8944162436548223,
+              "width": 0.2779237844940867,
+              "original_page": 2
+            },
+            "content": "QTY CO₂ emissions per capita",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.37114913016557693
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.020148107848191623,
+              "left": 0.9203013997823587,
+              "page": 2,
+              "top": 0.8941453962761738,
+              "width": 0.03274435877956636,
+              "original_page": 2
+            },
+            "content": "Our W\nin Da",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6966380566358565
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007614213197969543,
+              "left": 0.11892247043363995,
+              "page": 2,
+              "top": 0.9248730964467005,
+              "width": 0.03416557161629435,
+              "original_page": 2
+            },
+            "content": "Sort by",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.41774428114295004
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02131979695431472,
+              "left": 0.17017082785808146,
+              "page": 2,
+              "top": 0.917258883248731,
+              "width": 0.7043363994743759,
+              "original_page": 2
+            },
+            "content": "Carbon dioxide (CO2) emissions from burning fossil fuels and industrial processes. This includes emissions from transport, electricity generation, and heating, but not land-use change.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7120881527662277
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.006091370558375634,
+              "left": 0.20105124835742444,
+              "page": 2,
+              "top": 0.9578680203045685,
+              "width": 0.18199737187910645,
+              "original_page": 2
+            },
+            "content": "Table Map Line +2",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4569515123963356
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.006091370558375634,
+              "left": 0.9152431011826544,
+              "page": 2,
+              "top": 0.9578680203045685,
+              "width": 0.03942181340341656,
+              "original_page": 2
+            },
+            "content": "✰ Settir",
+            "type": "Footer",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5330109938979148
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.2936887150488529,
+              "left": 0.11691249090487947,
+              "page": 3,
+              "top": 0.028017927063298104,
+              "width": 0.8400895648810929,
+              "original_page": 3
+            },
+            "content": "The chart shows CO2 emissions over time from 1750 to 2023 for the United States, China, World, United Kingdom, and India. The United States shows the highest peak emissions around 2000-2010 before declining, while China's emissions rise dramatically starting around 1980 and continue at high levels. All countries and the world overall show significant increases in emissions starting in the mid-20th century, with the steepest growth occurring after 1950.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8149243861436843
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.014720812182741117,
+              "left": 0.18199737187910645,
+              "page": 3,
+              "top": 0.38426395939086294,
+              "width": 0.17674113009198422,
+              "original_page": 3
+            },
+            "content": "Research & Writing",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5412821635603905
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.2658179268619131,
+              "left": 0.11634537926171362,
+              "page": 3,
+              "top": 0.4231242997997303,
+              "width": 0.7551853215020841,
+              "original_page": 3
+            },
+            "content": "The chart displays multiple colored trend lines tracking CO2 emissions over time, with different countries or regions represented by different colors. Most lines show significant increases from low starting points, with some reaching peaks before declining in recent years, while others continue to rise. The data appears to span several decades and illustrates varying patterns of emissions growth and recent changes across different nations or regions.",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8371312409639358
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05786802030456853,
+              "left": 0.11957950065703023,
+              "page": 3,
+              "top": 0.698477157360406,
+              "width": 0.5065703022339028,
+              "original_page": 3
+            },
+            "content": "September 27, 2023 Per capita, national, historical: how do countries compare on CO2 metrics? There are many ways to measure countries' contributions to climate change. What do they tell us? Hannah Ritchie, Pablo Rosado, and Max Roser",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8642965972423553
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07055837563451776,
+              "left": 0.7293035479632063,
+              "page": 3,
+              "top": 0.7,
+              "width": 0.13863337713534823,
+              "original_page": 3
+            },
+            "content": "December 01, 2021\n\nMany countries have\n\noffshored productio\n\nIt is possible to reduce emi\n\nHannah Ritchie",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8107592850923538
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.11957950065703023,
+              "page": 3,
+              "top": 0.7984771573604061,
+              "width": 0.13206307490144548,
+              "original_page": 3
+            },
+            "content": "Overview Articles",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8965223014354705
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.24727097332175008,
+              "left": 0.1156022802445641,
+              "page": 4,
+              "top": 0.056034374721159186,
+              "width": 0.7556291798254506,
+              "original_page": 4
+            },
+            "content": "This stacked area chart shows the historical trend of CO2 emissions by different fuel types over time. The chart demonstrates a dramatic exponential increase in total emissions, with the largest portion appearing to come from coal (shown in reddish-brown at the bottom), followed by oil and gas in the upper layers. The steep upward trajectory illustrates how fossil fuel emissions have accelerated significantly, particularly in recent decades.",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.3514691531658173
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04010152284263959,
+              "left": 0.11957950065703023,
+              "page": 4,
+              "top": 0.3086294416243655,
+              "width": 0.22536136662286466,
+              "original_page": 4
+            },
+            "content": "June 23, 2020\n\nCO2 emissions by fuel\n\nHannah Ritchie, Pablo Rosado, and Max Roser",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7368718564510346
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011675126903553299,
+              "left": 0.1202365308804205,
+              "page": 4,
+              "top": 0.3746192893401015,
+              "width": 0.17674113009198422,
+              "original_page": 4
+            },
+            "content": "Emissions from Energy",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6515540271997451
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04010152284263959,
+              "left": 0.7293035479632063,
+              "page": 4,
+              "top": 0.3086294416243655,
+              "width": 0.13863337713534823,
+              "original_page": 4
+            },
+            "content": "June 10, 2020\n\nGreenhouse gas emi\n\nHannah Ritchie, Pablo Rosac",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.47852560728788374
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.27024322354854063,
+              "left": 0.11602802251547614,
+              "page": 4,
+              "top": 0.40212842292592005,
+              "width": 0.7552328723802203,
+              "original_page": 4
+            },
+            "content": "This world map displays greenhouse gas emissions data using a color-coded scale, with darker red shades indicating higher emission levels and lighter colors representing lower emissions. Countries in the Middle East, parts of Africa, and some regions in Asia and Eastern Europe show the highest emissions (darkest red), while many countries appear in lighter shades or white indicating lower emission levels. The map includes circular symbols on the right side that likely represent additional data categories or legend information.",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.49252903759479527
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007106598984771574,
+              "left": 0.11957950065703023,
+              "page": 4,
+              "top": 0.6786802030456853,
+              "width": 0.10315374507227333,
+              "original_page": 4
+            },
+            "content": "November 03, 2021",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5120904371142387
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04010152284263959,
+              "left": 0.11957950065703023,
+              "page": 4,
+              "top": 0.6934010152284263,
+              "width": 0.5834428383705651,
+              "original_page": 4
+            },
+            "content": "Fossil fuel subsidies: If we want to reduce greenhouse gas emissions we should not pay people to burn fossil fuels Max Roser",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5297547057271004
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012182741116751269,
+              "left": 0.1202365308804205,
+              "page": 4,
+              "top": 0.7598984771573604,
+              "width": 0.19973718791064388,
+              "original_page": 4
+            },
+            "content": "Emissions from Transport",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8959123969078063
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04010152284263959,
+              "left": 0.7293035479632063,
+              "page": 4,
+              "top": 0.6781725888324873,
+              "width": 0.13797634691195795,
+              "original_page": 4
+            },
+            "content": "December 10, 2020\n\nThe world's energy I\n\nMax Roser",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4845024675130844
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.4691773293587157,
+              "left": 0.11578891468424052,
+              "page": 5,
+              "top": 0.0223533146272456,
+              "width": 0.753524790298923,
+              "original_page": 5
+            },
+            "content": "The image is a horizontal stacked bar chart comparing different categories. Some bars are further divided into segments of varying colors including red, gray, and blue. Arrows point to select bars and a group of solid blue bars is vertically stacked on the right-hand side.\n",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5362858295440674
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05482233502538071,
+              "left": 0.11957950065703023,
+              "page": 5,
+              "top": 0.5030456852791878,
+              "width": 0.5919842312746386,
+              "original_page": 5
+            },
+            "content": "June 10, 2021 Emissions from food alone could use up all of our budget for 1.5°C or 2°C - but we have a range of opportunities to avoid this Hannah Ritchie",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5499216020107269
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04010152284263959,
+              "left": 0.7293035479632063,
+              "page": 5,
+              "top": 0.5030456852791878,
+              "width": 0.13797634691195795,
+              "original_page": 5
+            },
+            "content": "November 06, 2019\n\nFood production is r\n\nHannah Ritchie",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.574859568476677
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011675126903553299,
+              "left": 0.11957950065703023,
+              "page": 5,
+              "top": 0.584771573604061,
+              "width": 0.3633377135348226,
+              "original_page": 5
+            },
+            "content": "More Key Articles on Greenhouse Gas Emissions",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6964561671018601
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03959390862944162,
+              "left": 0.11957950065703023,
+              "page": 5,
+              "top": 0.617258883248731,
+              "width": 0.22010512483574243,
+              "original_page": 5
+            },
+            "content": "June 01, 2021\n\nThe argument for a carbon price\n\nMax Roser",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8660186797380447
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04010152284263959,
+              "left": 0.728646517739816,
+              "page": 5,
+              "top": 0.616751269035533,
+              "width": 0.1392904073587385,
+              "original_page": 5
+            },
+            "content": "October 14, 2022\n\nWhich countries hav\n\nHannah Ritchie and Pablo R",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8578914821147918
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.013197969543147208,
+              "left": 0.11957950065703023,
+              "page": 5,
+              "top": 0.8416243654822335,
+              "width": 0.4375821287779238,
+              "original_page": 5
+            },
+            "content": "Key Charts on CO2 & Greenhouse Gas Emissions",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8849020868539811
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.09755693619626428,
+              "left": 0.11693552947075703,
+              "page": 6,
+              "top": 0.035792611214110086,
+              "width": 0.304433905342092,
+              "original_page": 6
+            },
+            "content": "Annual CO, emissions by world region Annual CO, emissions",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.28688076734542844
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.018781725888324875,
+              "left": 0.11957950065703023,
+              "page": 6,
+              "top": 0.13705583756345177,
+              "width": 0.14914586070959265,
+              "original_page": 6
+            },
+            "content": "Annual CO2 emissions by world\nregion",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6358680367469787
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007106598984771574,
+              "left": 0.3028909329829172,
+              "page": 6,
+              "top": 0.13807106598984772,
+              "width": 0.10578186596583443,
+              "original_page": 6
+            },
+            "content": "Annual CO2 emissions",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.60597864985466
+            },
+            "image_url": null
+          }
+        ],
+        "content": "# CO2 and Greenhouse Gas Emissions (cont.)\n\n## Explore Data on CO2 and Greenhouse Gas Emissions\n\nCO2 and Greenhouse\nGas Emissions Data\nExplorer\nExplore data on greenhouse gas\nemissions.\nDownload this dataset\n\nGAS OR WARMING\n\nCO₂\n\nACCOUNTING\n\nO Territorial\n\nO Consumption-\nbased\n\nFUEL OR LAND USE\nCHANGE\n\nAll fossil em...\n\nCOUNT\n\nPer capita ✓\n\nRelative to world\n\ntotal\n\nQTY CO₂ emissions per capita\n\nOur W\nin Da\n\nSort by\n\nCarbon dioxide (CO2) emissions from burning fossil fuels and industrial processes. This includes emissions from transport, electricity generation, and heating, but not land-use change.\n\nTable Map Line +2\n\n✰ Settir\n\nThe chart shows CO2 emissions over time from 1750 to 2023 for the United States, China, World, United Kingdom, and India. The United States shows the highest peak emissions around 2000-2010 before declining, while China's emissions rise dramatically starting around 1980 and continue at high levels. All countries and the world overall show significant increases in emissions starting in the mid-20th century, with the steepest growth occurring after 1950.\n\nResearch & Writing\n\nThe chart displays multiple colored trend lines tracking CO2 emissions over time, with different countries or regions represented by different colors. Most lines show significant increases from low starting points, with some reaching peaks before declining in recent years, while others continue to rise. The data appears to span several decades and illustrates varying patterns of emissions growth and recent changes across different nations or regions.\n\nSeptember 27, 2023 Per capita, national, historical: how do countries compare on CO2 metrics? There are many ways to measure countries' contributions to climate change. What do they tell us? Hannah Ritchie, Pablo Rosado, and Max Roser\n\nDecember 01, 2021\n\nMany countries have\n\noffshored productio\n\nIt is possible to reduce emi\n\nHannah Ritchie\n\nOverview Articles\n\nThis stacked area chart shows the historical trend of CO2 emissions by different fuel types over time. The chart demonstrates a dramatic exponential increase in total emissions, with the largest portion appearing to come from coal (shown in reddish-brown at the bottom), followed by oil and gas in the upper layers. The steep upward trajectory illustrates how fossil fuel emissions have accelerated significantly, particularly in recent decades.\n\nJune 23, 2020\n\nCO2 emissions by fuel\n\nHannah Ritchie, Pablo Rosado, and Max Roser\n\n## Emissions from Energy\n\nJune 10, 2020\n\nGreenhouse gas emi\n\nHannah Ritchie, Pablo Rosac\n\nThis world map displays greenhouse gas emissions data using a color-coded scale, with darker red shades indicating higher emission levels and lighter colors representing lower emissions. Countries in the Middle East, parts of Africa, and some regions in Asia and Eastern Europe show the highest emissions (darkest red), while many countries appear in lighter shades or white indicating lower emission levels. The map includes circular symbols on the right side that likely represent additional data categories or legend information.\n\nNovember 03, 2021\n\nFossil fuel subsidies: If we want to reduce greenhouse gas emissions we should not pay people to burn fossil fuels Max Roser\n\nEmissions from Transport\n\nDecember 10, 2020\n\nThe world's energy I\n\nMax Roser\n\nThe image is a horizontal stacked bar chart comparing different categories. Some bars are further divided into segments of varying colors including red, gray, and blue. Arrows point to select bars and a group of solid blue bars is vertically stacked on the right-hand side.\n\n\nJune 10, 2021 Emissions from food alone could use up all of our budget for 1.5°C or 2°C - but we have a range of opportunities to avoid this Hannah Ritchie\n\nNovember 06, 2019\n\nFood production is r\n\nHannah Ritchie\n\nMore Key Articles on Greenhouse Gas Emissions\n\nJune 01, 2021\n\nThe argument for a carbon price\n\nMax Roser\n\nOctober 14, 2022\n\nWhich countries hav\n\nHannah Ritchie and Pablo R\n\nKey Charts on CO2 & Greenhouse Gas Emissions\n\nAnnual CO, emissions by world region Annual CO, emissions\n\nAnnual CO2 emissions by world\nregion\n\nAnnual CO2 emissions",
+        "embed": "# CO2 and Greenhouse Gas Emissions (cont.)\n\n## Explore Data on CO2 and Greenhouse Gas Emissions\n\nCO2 and Greenhouse\nGas Emissions Data\nExplorer\nExplore data on greenhouse gas\nemissions.\nDownload this dataset\n\nGAS OR WARMING\n\nCO₂\n\nACCOUNTING\n\nO Territorial\n\nO Consumption-\nbased\n\nFUEL OR LAND USE\nCHANGE\n\nAll fossil em...\n\nCOUNT\n\nPer capita ✓\n\nRelative to world\n\ntotal\n\nQTY CO₂ emissions per capita\n\nOur W\nin Da\n\nSort by\n\nCarbon dioxide (CO2) emissions from burning fossil fuels and industrial processes. This includes emissions from transport, electricity generation, and heating, but not land-use change.\n\nTable Map Line +2\n\n✰ Settir\n\nThe chart shows CO2 emissions over time from 1750 to 2023 for the United States, China, World, United Kingdom, and India. The United States shows the highest peak emissions around 2000-2010 before declining, while China's emissions rise dramatically starting around 1980 and continue at high levels. All countries and the world overall show significant increases in emissions starting in the mid-20th century, with the steepest growth occurring after 1950.\n\nResearch & Writing\n\nThe chart displays multiple colored trend lines tracking CO2 emissions over time, with different countries or regions represented by different colors. Most lines show significant increases from low starting points, with some reaching peaks before declining in recent years, while others continue to rise. The data appears to span several decades and illustrates varying patterns of emissions growth and recent changes across different nations or regions.\n\nSeptember 27, 2023 Per capita, national, historical: how do countries compare on CO2 metrics? There are many ways to measure countries' contributions to climate change. What do they tell us? Hannah Ritchie, Pablo Rosado, and Max Roser\n\nDecember 01, 2021\n\nMany countries have\n\noffshored productio\n\nIt is possible to reduce emi\n\nHannah Ritchie\n\nOverview Articles\n\nThis stacked area chart shows the historical trend of CO2 emissions by different fuel types over time. The chart demonstrates a dramatic exponential increase in total emissions, with the largest portion appearing to come from coal (shown in reddish-brown at the bottom), followed by oil and gas in the upper layers. The steep upward trajectory illustrates how fossil fuel emissions have accelerated significantly, particularly in recent decades.\n\nJune 23, 2020\n\nCO2 emissions by fuel\n\nHannah Ritchie, Pablo Rosado, and Max Roser\n\n## Emissions from Energy\n\nJune 10, 2020\n\nGreenhouse gas emi\n\nHannah Ritchie, Pablo Rosac\n\nThis world map displays greenhouse gas emissions data using a color-coded scale, with darker red shades indicating higher emission levels and lighter colors representing lower emissions. Countries in the Middle East, parts of Africa, and some regions in Asia and Eastern Europe show the highest emissions (darkest red), while many countries appear in lighter shades or white indicating lower emission levels. The map includes circular symbols on the right side that likely represent additional data categories or legend information.\n\nNovember 03, 2021\n\nFossil fuel subsidies: If we want to reduce greenhouse gas emissions we should not pay people to burn fossil fuels Max Roser\n\nEmissions from Transport\n\nDecember 10, 2020\n\nThe world's energy I\n\nMax Roser\n\nThe image is a horizontal stacked bar chart comparing different categories. Some bars are further divided into segments of varying colors including red, gray, and blue. Arrows point to select bars and a group of solid blue bars is vertically stacked on the right-hand side.\n\n\nJune 10, 2021 Emissions from food alone could use up all of our budget for 1.5°C or 2°C - but we have a range of opportunities to avoid this Hannah Ritchie\n\nNovember 06, 2019\n\nFood production is r\n\nHannah Ritchie\n\nMore Key Articles on Greenhouse Gas Emissions\n\nJune 01, 2021\n\nThe argument for a carbon price\n\nMax Roser\n\nOctober 14, 2022\n\nWhich countries hav\n\nHannah Ritchie and Pablo R\n\nKey Charts on CO2 & Greenhouse Gas Emissions\n\nAnnual CO, emissions by world region Annual CO, emissions\n\nAnnual CO2 emissions by world\nregion\n\nAnnual CO2 emissions",
+        "enriched": null,
+        "enrichment_success": false
+      },
+      {
+        "blocks": [
+          {
+            "bbox": {
+              "height": 0.011675126903553299,
+              "left": 0.43626806833114323,
+              "page": 6,
+              "top": 0.047715736040609136,
+              "width": 0.28777923784494086,
+              "original_page": 6
+            },
+            "content": "Annual CO2 emissions by world region",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5331546127796173
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.015736040609137057,
+              "left": 0.43823915900131405,
+              "page": 6,
+              "top": 0.06345177664974619,
+              "width": 0.4908015768725361,
+              "original_page": 6
+            },
+            "content": "Emissions from fossil fuels and industry are included, but not land-use change emissions. International aviation and shipping are included as separate entities, as they are not included in any country's emissions.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4653173670172691
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.29804392393470414,
+              "left": 0.43225574869363914,
+              "page": 6,
+              "top": 0.08196433594989293,
+              "width": 0.525124789224191,
+              "original_page": 6
+            },
+            "content": "The stacked area chart displays global CO2 emissions from fossil fuels and industry from 1750 to 2023, broken down by region. The chart shows a significant increase in emissions, particularly after 1950, with major contributions from China, the United States, and Europe. International aviation and shipping are included as separate entities.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.845652711391449
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007106598984771574,
+              "left": 0.7989487516425755,
+              "page": 6,
+              "top": 0.3868020304568528,
+              "width": 0.1557161629434954,
+              "original_page": 6
+            },
+            "content": "Related: CO₂ data: sources, methods",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6238191276788712
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.025321379530853425,
+              "left": 0.47587567403344694,
+              "page": 6,
+              "top": 0.4083388275301396,
+              "width": 0.035297689550652926,
+              "original_page": 6
+            },
+            "content": "←",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5706093877553939
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007106598984771574,
+              "left": 0.6038107752956636,
+              "page": 6,
+              "top": 0.416751269035533,
+              "width": 0.07555847568988174,
+              "original_page": 6
+            },
+            "content": "Chart 1 of 158",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6820727318525315
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02511426276967005,
+              "left": 0.7715461319912122,
+              "page": 6,
+              "top": 0.4083251023655615,
+              "width": 0.03417086507268397,
+              "original_page": 6
+            },
+            "content": "",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.38909834921360015
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007614213197969543,
+              "left": 0.41130091984231276,
+              "page": 6,
+              "top": 0.46802030456852795,
+              "width": 0.13534822601839686,
+              "original_page": 6
+            },
+            "content": "See all charts on this topic",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7911970674991607
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.005583756345177665,
+              "left": 0.45466491458607095,
+              "page": 6,
+              "top": 0.5416243654822335,
+              "width": 0.06241787122207622,
+              "original_page": 6
+            },
+            "content": "ENDNOTES",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8568391174077987
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07309644670050762,
+              "left": 0.2102496714848883,
+              "page": 6,
+              "top": 0.5888324873096447,
+              "width": 0.538107752956636,
+              "original_page": 6
+            },
+            "content": "\t1. IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, In press, doi:10.1017/9781009157896.",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.951660805940628
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02131979695431472,
+              "left": 0.20959264126149804,
+              "page": 6,
+              "top": 0.6781725888324873,
+              "width": 0.5216819973718791,
+              "original_page": 6
+            },
+            "content": "2. Lacis, A. A., Schmidt, G. A., Rind, D., & Ruedy, R. A. (2010). Atmospheric CO2: Principal control knob governing Earth's temperature. Science, 330(6002), 356-359.",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9266782999038696
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.047715736040609136,
+              "left": 0.20959264126149804,
+              "page": 6,
+              "top": 0.7152284263959391,
+              "width": 0.5295663600525624,
+              "original_page": 6
+            },
+            "content": "3. Morice, C.P., J.J. Kennedy, N.A. Rayner, J.P. Winn, E. Hogan, R.E. Killick, R.J.H. Dunn, T.J. Osborn, P.D. Jones and I.R. Simpson (in press) An updated assessment of near-surface temperature change from 1850: the HadCRUT5 dataset. Journal of Geophysical Research (Atmospheres) doi:10.1029/2019JD032361 (supporting information).",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9578235924243927
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02182741116751269,
+              "left": 0.20893561103810776,
+              "page": 6,
+              "top": 0.7781725888324873,
+              "width": 0.5295663600525624,
+              "original_page": 6
+            },
+            "content": "4. The underlying data for this chart is sourced from the Climate Action Tracker - based on policies and pledges as of April 2022.",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9196407645940781
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.20302233902759526,
+              "page": 6,
+              "top": 0.8756345177664975,
+              "width": 0.09526938239159001,
+              "original_page": 6
+            },
+            "content": "Cite this work",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8952673196792602
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02182741116751269,
+              "left": 0.20302233902759526,
+              "page": 6,
+              "top": 0.9010152284263959,
+              "width": 0.5532194480946123,
+              "original_page": 6
+            },
+            "content": "Our articles and data visualizations rely on work from many different people and organizations. When citing this topic page, please also cite the underlying data sources. This topic page can be cited as:",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9615115493535995
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04314720812182741,
+              "left": 0.2233902759526938,
+              "page": 7,
+              "top": 0.047208121827411166,
+              "width": 0.4704336399474376,
+              "original_page": 7
+            },
+            "content": "Hannah Ritchie, Pablo Rosado, and Max Roser (2023) - \"CO₂ and Greenhouse Gas Emissions\" Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/co2-and-greenhouse-gas- emissions' [Online Resource]",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8466204047203064
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.006598984771573604,
+              "left": 0.20367936925098554,
+              "page": 7,
+              "top": 0.11624365482233502,
+              "width": 0.07555847568988174,
+              "original_page": 7
+            },
+            "content": "BibTeX citation",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6742282241582871
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08934010152284264,
+              "left": 0.2233902759526938,
+              "page": 7,
+              "top": 0.14873096446700507,
+              "width": 0.43495400788436267,
+              "original_page": 7
+            },
+            "content": "@article{owid-co2-and-greenhouse-gas-emissions,\nauthor = {Hannah Ritchie and Pablo Rosado and Max Roser},\ntitle = {CO2 and Greenhouse Gas Emissions},\njournal = {Our World in Data},\nyear = {2023},\nnote {https://ourworldindata.org/co2-and-greenhouse-gas-\nemissions}\n}",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6384015887975693
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.031924701826221445,
+              "left": 0.44310625153991456,
+              "page": 7,
+              "top": 0.3152658840121352,
+              "width": 0.0830155521748727,
+              "original_page": 7
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.3897382527589798
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01065989847715736,
+              "left": 0.41130091984231276,
+              "page": 7,
+              "top": 0.3700507614213198,
+              "width": 0.15111695137976347,
+              "original_page": 7
+            },
+            "content": "Reuse this work freely",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7053527802228927
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03350253807106599,
+              "left": 0.22207621550591328,
+              "page": 7,
+              "top": 0.39593908629441626,
+              "width": 0.5282522996057819,
+              "original_page": 7
+            },
+            "content": "All visualizations, data, and code produced by Our World in Data are completely open access under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9586320936679841
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.046700507614213196,
+              "left": 0.21222076215505914,
+              "page": 7,
+              "top": 0.44416243654822335,
+              "width": 0.5479632063074902,
+              "original_page": 7
+            },
+            "content": "The data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our documentation, so you should always check the license of any such third-party data before use and redistribution.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9430129498243331
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007614213197969543,
+              "left": 0.36859395532194483,
+              "page": 7,
+              "top": 0.5065989847715736,
+              "width": 0.2345597897503285,
+              "original_page": 7
+            },
+            "content": "All of our charts can be embedded in any site.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8878362089395523
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.027411167512690356,
+              "left": 0.3193166885676741,
+              "page": 7,
+              "top": 0.5715736040609137,
+              "width": 0.3600525624178712,
+              "original_page": 7
+            },
+            "content": "Our World in Data is free and accessible for everyone. Help us do this work by making a donation.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9431249737739562
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.006091370558375634,
+              "left": 0.46846254927726677,
+              "page": 7,
+              "top": 0.6203045685279188,
+              "width": 0.06176084099868594,
+              "original_page": 7
+            },
+            "content": "Donate now",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8027033120393754
+            },
+            "image_url": null
+          }
+        ],
+        "content": "# CO2 and Greenhouse Gas Emissions (cont.)\n\n## Annual CO2 emissions by world region\n\nEmissions from fossil fuels and industry are included, but not land-use change emissions. International aviation and shipping are included as separate entities, as they are not included in any country's emissions.\n\nThe stacked area chart displays global CO2 emissions from fossil fuels and industry from 1750 to 2023, broken down by region. The chart shows a significant increase in emissions, particularly after 1950, with major contributions from China, the United States, and Europe. International aviation and shipping are included as separate entities.\n\nRelated: CO₂ data: sources, methods\n\n←\n\nChart 1 of 158\n\n\n\nSee all charts on this topic\n\n# ENDNOTES\n\n\t1. IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, In press, doi:10.1017/9781009157896.\n\n2. Lacis, A. A., Schmidt, G. A., Rind, D., & Ruedy, R. A. (2010). Atmospheric CO2: Principal control knob governing Earth's temperature. Science, 330(6002), 356-359.\n\n3. Morice, C.P., J.J. Kennedy, N.A. Rayner, J.P. Winn, E. Hogan, R.E. Killick, R.J.H. Dunn, T.J. Osborn, P.D. Jones and I.R. Simpson (in press) An updated assessment of near-surface temperature change from 1850: the HadCRUT5 dataset. Journal of Geophysical Research (Atmospheres) doi:10.1029/2019JD032361 (supporting information).\n\n4. The underlying data for this chart is sourced from the Climate Action Tracker - based on policies and pledges as of April 2022.\n\n## Cite this work\n\nOur articles and data visualizations rely on work from many different people and organizations. When citing this topic page, please also cite the underlying data sources. This topic page can be cited as:\n\nHannah Ritchie, Pablo Rosado, and Max Roser (2023) - \"CO₂ and Greenhouse Gas Emissions\" Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/co2-and-greenhouse-gas- emissions' [Online Resource]\n\nBibTeX citation\n\n@article{owid-co2-and-greenhouse-gas-emissions,\nauthor = {Hannah Ritchie and Pablo Rosado and Max Roser},\ntitle = {CO2 and Greenhouse Gas Emissions},\njournal = {Our World in Data},\nyear = {2023},\nnote {https://ourworldindata.org/co2-and-greenhouse-gas-\nemissions}\n}\n\nOur World\nin Data\n\n## Reuse this work freely\n\nAll visualizations, data, and code produced by Our World in Data are completely open access under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.\n\nThe data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our documentation, so you should always check the license of any such third-party data before use and redistribution.\n\nAll of our charts can be embedded in any site.\n\nOur World in Data is free and accessible for everyone. Help us do this work by making a donation.\n\nDonate now",
+        "embed": "# CO2 and Greenhouse Gas Emissions (cont.)\n\n## Annual CO2 emissions by world region\n\nEmissions from fossil fuels and industry are included, but not land-use change emissions. International aviation and shipping are included as separate entities, as they are not included in any country's emissions.\n\nThe stacked area chart displays global CO2 emissions from fossil fuels and industry from 1750 to 2023, broken down by region. The chart shows a significant increase in emissions, particularly after 1950, with major contributions from China, the United States, and Europe. International aviation and shipping are included as separate entities.\n\nRelated: CO₂ data: sources, methods\n\n←\n\nChart 1 of 158\n\n\n\nSee all charts on this topic\n\n# ENDNOTES\n\n\t1. IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, In press, doi:10.1017/9781009157896.\n\n2. Lacis, A. A., Schmidt, G. A., Rind, D., & Ruedy, R. A. (2010). Atmospheric CO2: Principal control knob governing Earth's temperature. Science, 330(6002), 356-359.\n\n3. Morice, C.P., J.J. Kennedy, N.A. Rayner, J.P. Winn, E. Hogan, R.E. Killick, R.J.H. Dunn, T.J. Osborn, P.D. Jones and I.R. Simpson (in press) An updated assessment of near-surface temperature change from 1850: the HadCRUT5 dataset. Journal of Geophysical Research (Atmospheres) doi:10.1029/2019JD032361 (supporting information).\n\n4. The underlying data for this chart is sourced from the Climate Action Tracker - based on policies and pledges as of April 2022.\n\n## Cite this work\n\nOur articles and data visualizations rely on work from many different people and organizations. When citing this topic page, please also cite the underlying data sources. This topic page can be cited as:\n\nHannah Ritchie, Pablo Rosado, and Max Roser (2023) - \"CO₂ and Greenhouse Gas Emissions\" Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/co2-and-greenhouse-gas- emissions' [Online Resource]\n\nBibTeX citation\n\n@article{owid-co2-and-greenhouse-gas-emissions,\nauthor = {Hannah Ritchie and Pablo Rosado and Max Roser},\ntitle = {CO2 and Greenhouse Gas Emissions},\njournal = {Our World in Data},\nyear = {2023},\nnote {https://ourworldindata.org/co2-and-greenhouse-gas-\nemissions}\n}\n\nOur World\nin Data\n\n## Reuse this work freely\n\nAll visualizations, data, and code produced by Our World in Data are completely open access under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.\n\nThe data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our documentation, so you should always check the license of any such third-party data before use and redistribution.\n\nAll of our charts can be embedded in any site.\n\nOur World in Data is free and accessible for everyone. Help us do this work by making a donation.\n\nDonate now",
+        "enriched": null,
+        "enrichment_success": false
+      }
+    ],
+    "type": "full",
+    "custom": null,
+    "ocr": null
+  },
+  "usage": {
+    "num_pages": 7,
+    "credits": 6.0
+  },
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/4bb6738c-fea4-4b9f-9a65-5c861d8fd62a.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2UOK6OVBOUYL7WYA%2F20251008%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251008T121825Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=85fc53d524b4f4f5be16c03099caf4b298e3b715a4d0f8f4af541940e42facdf",
+  "studio_link": "https://studio.reducto.ai/job/cc8e6994-5c85-4d68-b1e7-55bc766efe88"
+}

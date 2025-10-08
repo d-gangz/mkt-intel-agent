@@ -1,0 +1,367 @@
+{
+  "duration": 13.650915145874023,
+  "job_id": "fd424e25-facd-4178-b60a-157e77965fc7",
+  "result": {
+    "chunks": [
+      {
+        "blocks": [
+          {
+            "bbox": {
+              "height": 0.06472684085510688,
+              "left": 0.08312342569269521,
+              "page": 1,
+              "top": 0.10570071258907364,
+              "width": 0.2367758186397985,
+              "original_page": 1
+            },
+            "content": "HOME FOR\nFUTURE",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.860746717453003
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03503562945368171,
+              "left": 0.08060453400503778,
+              "page": 1,
+              "top": 0.18824228028503562,
+              "width": 0.218303946263644,
+              "original_page": 1
+            },
+            "content": "221 Queen Street,\nMelbourne VIC 3000",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8507840931415558
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011282660332541567,
+              "left": 0.08060453400503778,
+              "page": 1,
+              "top": 0.2660332541567696,
+              "width": 0.17716204869857263,
+              "original_page": 1
+            },
+            "content": "- 2,800 sq. ft living space",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8060893148183822
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009501187648456057,
+              "left": 0.08060453400503778,
+              "page": 1,
+              "top": 0.27969121140142517,
+              "width": 0.20235096557514692,
+              "original_page": 1
+            },
+            "content": "- Recently renovated kitchen",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7648508489131927
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012470308788598575,
+              "left": 0.08144416456759027,
+              "page": 1,
+              "top": 0.29097387173396677,
+              "width": 0.235936188077246,
+              "original_page": 1
+            },
+            "content": "- Smart home automation system",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7601233124732971
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011876484560570071,
+              "left": 0.08060453400503778,
+              "page": 1,
+              "top": 0.30522565320665085,
+              "width": 0.23845507976490343,
+              "original_page": 1
+            },
+            "content": "- 2-car garage with storage space",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8149216711521148
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02799186797153355,
+              "left": 0.07936510010790565,
+              "page": 1,
+              "top": 0.3888714353149124,
+              "width": 0.02314845420651632,
+              "original_page": 1
+            },
+            "content": "",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.12994298189878464
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.023752969121140142,
+              "left": 0.08228379513014274,
+              "page": 1,
+              "top": 0.3919239904988123,
+              "width": 0.218303946263644,
+              "original_page": 1
+            },
+            "content": "$ 1,000,000",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9527634024620056
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.41357685777750264,
+              "left": 0.45395643104534006,
+              "page": 1,
+              "top": 0.03097128924734519,
+              "width": 0.4992424671035369,
+              "original_page": 1
+            },
+            "content": "The image depicts a modern living room with minimalist decor. A large mirror reflects an adjacent space with a seating area. The room features neutral tones, abstract art, and sleek furniture.\n",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6310267299413681
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.18952525086754007,
+              "left": 0.04271272968385122,
+              "page": 1,
+              "top": 0.46140316489756533,
+              "width": 0.3853929040814327,
+              "original_page": 1
+            },
+            "content": "A modern kitchen and dining area features a round wooden table with black chairs and stylish decor. The kitchen has a clean design with white cabinetry and a variety of kitchenware on the counter. Warm lighting and minimalist artwork enhance the ambiance.",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5886797577142716
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.1904100431682378,
+              "left": 0.042868510902078084,
+              "page": 1,
+              "top": 0.6866922627718601,
+              "width": 0.38511889607439914,
+              "original_page": 1
+            },
+            "content": "The image shows a modern brick apartment building with multiple stories and balconies featuring colorful accents. The building has a contemporary design with large windows and metal railings, set against a blue sky with some tree coverage. Bright sunlight filters through the trees on the left side of the frame, creating a warm, inviting atmosphere around the residential complex.",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.547031244635582
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012470308788598575,
+              "left": 0.5172124265323258,
+              "page": 1,
+              "top": 0.5130641330166271,
+              "width": 0.15029387069689337,
+              "original_page": 1
+            },
+            "content": "Home for sale",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.913356426358223
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07541567695961995,
+              "left": 0.5172124265323258,
+              "page": 1,
+              "top": 0.5445368171021377,
+              "width": 0.36523929471032746,
+              "original_page": 1
+            },
+            "content": "A stunning blend of modern elegance and timeless comfort. This 4-bedroom, 3-bathroom home fea- tures open-plan living, high ceilings, and a large backyard perfect for entertaining. Finished with premium hardwood flooring and energy-efficient appliances.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9625344544649124
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01840855106888361,
+              "left": 0.5197313182199832,
+              "page": 1,
+              "top": 0.6573634204275535,
+              "width": 0.24601175482787574,
+              "original_page": 1
+            },
+            "content": "Features & Hightlights",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9364248782396316
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.010095011876484561,
+              "left": 0.5180520570948782,
+              "page": 1,
+              "top": 0.6923990498812351,
+              "width": 0.3434089000839631,
+              "original_page": 1
+            },
+            "content": "Spacious open-plan layout with natural lighting",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4009238105267286
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02315914489311164,
+              "left": 0.5188916876574308,
+              "page": 1,
+              "top": 0.7119952494061758,
+              "width": 0.3702770780856423,
+              "original_page": 1
+            },
+            "content": "Designer kitchen with quartz countertops and built-\nin appliances",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.3799511641263962
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.030285035629453682,
+              "left": 0.5172124265323258,
+              "page": 1,
+              "top": 0.745249406175772,
+              "width": 0.3593618807724601,
+              "original_page": 1
+            },
+            "content": "Master suite with walk-in closet and en-suite bath Covered patio and landscaped backyard garden",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.43594165444374083
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03296732053054483,
+              "left": 0.05750430961499987,
+              "page": 1,
+              "top": 0.9164238791567696,
+              "width": 0.24711631307273627,
+              "original_page": 1
+            },
+            "content": "A Real Estate.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5727468475699424
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05881918864125594,
+              "left": 0.543114957641294,
+              "page": 1,
+              "top": 0.8950011917078013,
+              "width": 0.3210800260580657,
+              "original_page": 1
+            },
+            "content": "Contact Us\n+01 555 123456",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4321328975260258
+            },
+            "image_url": null
+          }
+        ],
+        "content": "# HOME FOR\nFUTURE\n\n221 Queen Street,\nMelbourne VIC 3000\n\n- 2,800 sq. ft living space\n\n- Recently renovated kitchen\n\n- Smart home automation system\n\n- 2-car garage with storage space\n\n\n\n$ 1,000,000\n\nThe image depicts a modern living room with minimalist decor. A large mirror reflects an adjacent space with a seating area. The room features neutral tones, abstract art, and sleek furniture.\n\n\nA modern kitchen and dining area features a round wooden table with black chairs and stylish decor. The kitchen has a clean design with white cabinetry and a variety of kitchenware on the counter. Warm lighting and minimalist artwork enhance the ambiance.\n\nThe image shows a modern brick apartment building with multiple stories and balconies featuring colorful accents. The building has a contemporary design with large windows and metal railings, set against a blue sky with some tree coverage. Bright sunlight filters through the trees on the left side of the frame, creating a warm, inviting atmosphere around the residential complex.\n\n## Home for sale\n\nA stunning blend of modern elegance and timeless comfort. This 4-bedroom, 3-bathroom home fea- tures open-plan living, high ceilings, and a large backyard perfect for entertaining. Finished with premium hardwood flooring and energy-efficient appliances.\n\n## Features & Hightlights\n\nSpacious open-plan layout with natural lighting\n\nDesigner kitchen with quartz countertops and built-\nin appliances\n\nMaster suite with walk-in closet and en-suite bath Covered patio and landscaped backyard garden\n\nA Real Estate.\n\nContact Us\n+01 555 123456",
+        "embed": "# HOME FOR\nFUTURE\n\n221 Queen Street,\nMelbourne VIC 3000\n\n- 2,800 sq. ft living space\n\n- Recently renovated kitchen\n\n- Smart home automation system\n\n- 2-car garage with storage space\n\n\n\n$ 1,000,000\n\nThe image depicts a modern living room with minimalist decor. A large mirror reflects an adjacent space with a seating area. The room features neutral tones, abstract art, and sleek furniture.\n\n\nA modern kitchen and dining area features a round wooden table with black chairs and stylish decor. The kitchen has a clean design with white cabinetry and a variety of kitchenware on the counter. Warm lighting and minimalist artwork enhance the ambiance.\n\nThe image shows a modern brick apartment building with multiple stories and balconies featuring colorful accents. The building has a contemporary design with large windows and metal railings, set against a blue sky with some tree coverage. Bright sunlight filters through the trees on the left side of the frame, creating a warm, inviting atmosphere around the residential complex.\n\n## Home for sale\n\nA stunning blend of modern elegance and timeless comfort. This 4-bedroom, 3-bathroom home fea- tures open-plan living, high ceilings, and a large backyard perfect for entertaining. Finished with premium hardwood flooring and energy-efficient appliances.\n\n## Features & Hightlights\n\nSpacious open-plan layout with natural lighting\n\nDesigner kitchen with quartz countertops and built-\nin appliances\n\nMaster suite with walk-in closet and en-suite bath Covered patio and landscaped backyard garden\n\nA Real Estate.\n\nContact Us\n+01 555 123456",
+        "enriched": null,
+        "enrichment_success": false
+      }
+    ],
+    "type": "full",
+    "custom": null,
+    "ocr": null
+  },
+  "usage": {
+    "num_pages": 1,
+    "credits": 1.0
+  },
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/1da7f5dd-b3d1-4de2-9faf-c158b6c9ef5f.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2UOK6OVBOUYL7WYA%2F20251008%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251008T085231Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e47e591fe37488879aa9eb41cc9257e993bc79a3e123b73747ad2d503ccd746e",
+  "studio_link": "https://studio.reducto.ai/job/fd424e25-facd-4178-b60a-157e77965fc7"
+}

@@ -1,0 +1,2667 @@
+{
+  "duration": 61.6658570766449,
+  "job_id": "a9bbe303-6262-45b6-9c85-113cbe382c3c",
+  "result": {
+    "chunks": [
+      {
+        "blocks": [
+          {
+            "bbox": {
+              "height": 0.006598984771573604,
+              "left": 0.27660972404730616,
+              "page": 1,
+              "top": 0.05177664974619289,
+              "width": 0.24507227332457293,
+              "original_page": 1
+            },
+            "content": "Home CO2 & Greenhouse Gas Emissions",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6089967250823974
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.016751269035532996,
+              "left": 0.39750328515111694,
+              "page": 1,
+              "top": 0.0883248730964467,
+              "width": 0.2049934296977661,
+              "original_page": 1
+            },
+            "content": "CO2 emissions by fuel",
+            "type": "Title",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8208909183740616
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.029949238578680204,
+              "left": 0.27660972404730616,
+              "page": 1,
+              "top": 0.11776649746192894,
+              "width": 0.4467805519053876,
+              "original_page": 1
+            },
+            "content": "Coal, oil, gas or flaring: where do our CO2 emissions come from? How are emissions from these fuels changing over time?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8853035151958466
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07208121827411168,
+              "left": 0.2378449408672799,
+              "page": 1,
+              "top": 0.18121827411167513,
+              "width": 0.2345597897503285,
+              "original_page": 1
+            },
+            "content": "By: Hannah Ritchie, Pablo Rosado, and Max Roser This page was first published in June 2020. We made minor changes to the text in January 2024.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9462888419628144
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011582040544693846,
+              "left": 0.5846793015589069,
+              "page": 1,
+              "top": 0.17892138485981124,
+              "width": 0.013043918684810283,
+              "original_page": 1
+            },
+            "content": "",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.2714569538831711
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.008121827411167513,
+              "left": 0.6064388961892248,
+              "page": 1,
+              "top": 0.18071065989847715,
+              "width": 0.09658344283837056,
+              "original_page": 1
+            },
+            "content": "Cite this article",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4542067781090736
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012075852137531725,
+              "left": 0.5611781597764044,
+              "page": 1,
+              "top": 0.19837906735802666,
+              "width": 0.01651129302778006,
+              "original_page": 1
+            },
+            "content": "",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.395290607213974
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.008629441624365483,
+              "left": 0.5860709592641261,
+              "page": 1,
+              "top": 0.20101522842639594,
+              "width": 0.1392904073587385,
+              "original_page": 1
+            },
+            "content": "Reuse our work freely",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4423766456544399
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.030456852791878174,
+              "left": 0.12155059132720106,
+              "page": 1,
+              "top": 0.3182741116751269,
+              "width": 0.7398160315374507,
+              "original_page": 1
+            },
+            "content": "Carbon dioxide (CO2) emissions from energy and material production can arise from various sources and fuel types: coal, oil, gas, cement production, and gas flaring.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9535889357328415
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.030456852791878174,
+              "left": 0.12155059132720106,
+              "page": 1,
+              "top": 0.36903553299492386,
+              "width": 0.7431011826544021,
+              "original_page": 1
+            },
+            "content": "As global and national energy systems have transitioned over centuries and decades, the contribution of different fuel sources to CO2 emissions has changed both geographically and temporally.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9243289560079574
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.030456852791878174,
+              "left": 0.12220762155059132,
+              "page": 1,
+              "top": 0.41928934010152286,
+              "width": 0.7365308804204993,
+              "original_page": 1
+            },
+            "content": "In this article we look at the breakdown of CO2 emissions by fuel type, looking at the largest emitters of the past; the largest emitters today; and how these compare when we look at per capita adjustments.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9192848414182663
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.015228426395939087,
+              "left": 0.12220762155059132,
+              "page": 1,
+              "top": 0.4812182741116751,
+              "width": 0.2490144546649146,
+              "original_page": 1
+            },
+            "content": "CO2 emissions by fuel type",
+            "type": "Section Header",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7214986890554428
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.013197969543147208,
+              "left": 0.12155059132720106,
+              "page": 1,
+              "top": 0.5208121827411167,
+              "width": 0.49605781865965837,
+              "original_page": 1
+            },
+            "content": "Coal, oil, gas, cement: where do CO2 emissions come from?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8481285482645035
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.06802030456852792,
+              "left": 0.12155059132720106,
+              "page": 1,
+              "top": 0.5593908629441624,
+              "width": 0.7536136662286466,
+              "original_page": 1
+            },
+            "content": "Carbon dioxide emissions associated with energy and industrial production can come from a range of fuel types. The contribution of each of these sources has changed significantly through time and still shows large differences by region. In the chart we see the absolute and relative contribution of CO2 emissions by source, differentiated between coal, gas, oil, flaring, and cement production.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9614123493432998
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01116751269035533,
+              "left": 0.12089356110381078,
+              "page": 1,
+              "top": 0.6477157360406092,
+              "width": 0.6425755584756899,
+              "original_page": 1
+            },
+            "content": "At a global level, we see that early industrialization was dominated by the use of solid fuel.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7515479296445846
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.049238578680203045,
+              "left": 0.12220762155059132,
+              "page": 1,
+              "top": 0.6791878172588832,
+              "width": 0.7260183968462549,
+              "original_page": 1
+            },
+            "content": "Coal-fired power at an industrial scale was the first to emerge in Europe and North America during the 1700s. It wasn't until the late 1800s that we began to see a growth in emissions from oil and gas production. Another century passed before emissions from flaring and cement production began.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9585492193698884
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.030456852791878174,
+              "left": 0.12155059132720106,
+              "page": 1,
+              "top": 0.7482233502538072,
+              "width": 0.7069645203679369,
+              "original_page": 1
+            },
+            "content": "Today, solid and liquid fuels dominate, although contributions from gas production are also notable. Cement and flaring at the global level remain comparably small.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.947180026769638
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.015228426395939087,
+              "left": 0.1228646517739816,
+              "page": 2,
+              "top": 0.0766497461928934,
+              "width": 0.4211563731931669,
+              "original_page": 2
+            },
+            "content": "CO2 emissions by fuel or industry type, World",
+            "type": "Title",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6651381522417068
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.021222349834926237,
+              "left": 0.8864277703063403,
+              "page": 2,
+              "top": 0.07565227837731996,
+              "width": 0.059771062823382064,
+              "original_page": 2
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.37129437252879144
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.41893609526193687,
+              "left": 0.11371668691547408,
+              "page": 2,
+              "top": 0.08959956290153077,
+              "width": 0.835942783430904,
+              "original_page": 2
+            },
+            "content": "The image is a line chart showing CO2 emissions in billion tons from 1750 to 2023, broken down by source. Coal, oil, and gas are the primary contributors, with coal starting first and remaining significant. Other industries, cement, and flaring contribute a smaller but growing share of emissions over time.\n",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8256708323955536
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08629441624365482,
+              "left": 0.12089356110381078,
+              "page": 2,
+              "top": 0.5558375634517766,
+              "width": 0.7503285151116952,
+              "original_page": 2
+            },
+            "content": "The trends vary significantly by region. Overall patterns across Europe and North America are similar: early industrialization began through solid fuel consumption, however, through time this energy mix has diversified. Today, CO2 emissions are spread fairly equally between coal, oil, and gas. In contrast, Latin America and the Caribbean's emissions have historically been and remain a product of liquid fuel-even in the early stages of development coal consumption was small. 1",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9462119817733765
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.029441624365482234,
+              "left": 0.12089356110381078,
+              "page": 2,
+              "top": 0.6624365482233503,
+              "width": 0.7319316688567674,
+              "original_page": 2
+            },
+            "content": "Asia's energy remains dominant in solid fuel consumption and has notably higher cement contributions relative to other regions.²",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9456570833921433
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.030456852791878174,
+              "left": 0.12089356110381078,
+              "page": 2,
+              "top": 0.7131979695431472,
+              "width": 0.7529566360052562,
+              "original_page": 2
+            },
+            "content": "Africa also has more notable emissions from cement and flaring; however, its key sources of emissions are a diverse mix of solid, liquid, and gas.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9552394866943359
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.015736040609137057,
+              "left": 0.1228646517739816,
+              "page": 3,
+              "top": 0.07563451776649746,
+              "width": 0.3120893561103811,
+              "original_page": 3
+            },
+            "content": "CO2 emissions by fuel or industry",
+            "type": "Title",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8448855996131898
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.021103036948266974,
+              "left": 0.8865324363758623,
+              "page": 3,
+              "top": 0.07562185374613341,
+              "width": 0.05982945125143725,
+              "original_page": 3
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4136802718043327
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.38915757697245795,
+              "left": 0.11692548393419945,
+              "page": 3,
+              "top": 0.11105322668395066,
+              "width": 0.8346681832953915,
+              "original_page": 3
+            },
+            "content": "The image displays line graphs of CO2 emissions from various industries across different regions (Asia, Africa, South America, North America, Oceania, and Europe) from 1750 to 2023. Each graph shows how emissions from cement, coal, flaring, gas, oil, and other industries have changed over time.  Generally, there's a significant increase in emissions across all regions, particularly after 1950, though the scale and sources of emissions vary by region.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.818296629190445
+            },
+            "image_url": null
+          }
+        ],
+        "content": "# Home CO2 & Greenhouse Gas Emissions\n\n# CO2 emissions by fuel\n\nCoal, oil, gas or flaring: where do our CO2 emissions come from? How are emissions from these fuels changing over time?\n\nBy: Hannah Ritchie, Pablo Rosado, and Max Roser This page was first published in June 2020. We made minor changes to the text in January 2024.\n\n\n\nCite this article\n\n\n\nReuse our work freely\n\nCarbon dioxide (CO2) emissions from energy and material production can arise from various sources and fuel types: coal, oil, gas, cement production, and gas flaring.\n\nAs global and national energy systems have transitioned over centuries and decades, the contribution of different fuel sources to CO2 emissions has changed both geographically and temporally.\n\nIn this article we look at the breakdown of CO2 emissions by fuel type, looking at the largest emitters of the past; the largest emitters today; and how these compare when we look at per capita adjustments.\n\n## CO2 emissions by fuel type\n\nCoal, oil, gas, cement: where do CO2 emissions come from?\n\nCarbon dioxide emissions associated with energy and industrial production can come from a range of fuel types. The contribution of each of these sources has changed significantly through time and still shows large differences by region. In the chart we see the absolute and relative contribution of CO2 emissions by source, differentiated between coal, gas, oil, flaring, and cement production.\n\nAt a global level, we see that early industrialization was dominated by the use of solid fuel.\n\nCoal-fired power at an industrial scale was the first to emerge in Europe and North America during the 1700s. It wasn't until the late 1800s that we began to see a growth in emissions from oil and gas production. Another century passed before emissions from flaring and cement production began.\n\nToday, solid and liquid fuels dominate, although contributions from gas production are also notable. Cement and flaring at the global level remain comparably small.\n\n# CO2 emissions by fuel or industry type, World\n\nOur World\nin Data\n\nThe image is a line chart showing CO2 emissions in billion tons from 1750 to 2023, broken down by source. Coal, oil, and gas are the primary contributors, with coal starting first and remaining significant. Other industries, cement, and flaring contribute a smaller but growing share of emissions over time.\n\n\nThe trends vary significantly by region. Overall patterns across Europe and North America are similar: early industrialization began through solid fuel consumption, however, through time this energy mix has diversified. Today, CO2 emissions are spread fairly equally between coal, oil, and gas. In contrast, Latin America and the Caribbean's emissions have historically been and remain a product of liquid fuel-even in the early stages of development coal consumption was small. 1\n\nAsia's energy remains dominant in solid fuel consumption and has notably higher cement contributions relative to other regions.²\n\nAfrica also has more notable emissions from cement and flaring; however, its key sources of emissions are a diverse mix of solid, liquid, and gas.\n\n# CO2 emissions by fuel or industry\n\nOur World\nin Data\n\nThe image displays line graphs of CO2 emissions from various industries across different regions (Asia, Africa, South America, North America, Oceania, and Europe) from 1750 to 2023. Each graph shows how emissions from cement, coal, flaring, gas, oil, and other industries have changed over time.  Generally, there's a significant increase in emissions across all regions, particularly after 1950, though the scale and sources of emissions vary by region.",
+        "embed": "# Home CO2 & Greenhouse Gas Emissions\n\n# CO2 emissions by fuel\n\nCoal, oil, gas or flaring: where do our CO2 emissions come from? How are emissions from these fuels changing over time?\n\nBy: Hannah Ritchie, Pablo Rosado, and Max Roser This page was first published in June 2020. We made minor changes to the text in January 2024.\n\n\n\nCite this article\n\n\n\nReuse our work freely\n\nCarbon dioxide (CO2) emissions from energy and material production can arise from various sources and fuel types: coal, oil, gas, cement production, and gas flaring.\n\nAs global and national energy systems have transitioned over centuries and decades, the contribution of different fuel sources to CO2 emissions has changed both geographically and temporally.\n\nIn this article we look at the breakdown of CO2 emissions by fuel type, looking at the largest emitters of the past; the largest emitters today; and how these compare when we look at per capita adjustments.\n\n## CO2 emissions by fuel type\n\nCoal, oil, gas, cement: where do CO2 emissions come from?\n\nCarbon dioxide emissions associated with energy and industrial production can come from a range of fuel types. The contribution of each of these sources has changed significantly through time and still shows large differences by region. In the chart we see the absolute and relative contribution of CO2 emissions by source, differentiated between coal, gas, oil, flaring, and cement production.\n\nAt a global level, we see that early industrialization was dominated by the use of solid fuel.\n\nCoal-fired power at an industrial scale was the first to emerge in Europe and North America during the 1700s. It wasn't until the late 1800s that we began to see a growth in emissions from oil and gas production. Another century passed before emissions from flaring and cement production began.\n\nToday, solid and liquid fuels dominate, although contributions from gas production are also notable. Cement and flaring at the global level remain comparably small.\n\n# CO2 emissions by fuel or industry type, World\n\nOur World\nin Data\n\nThe image is a line chart showing CO2 emissions in billion tons from 1750 to 2023, broken down by source. Coal, oil, and gas are the primary contributors, with coal starting first and remaining significant. Other industries, cement, and flaring contribute a smaller but growing share of emissions over time.\n\n\nThe trends vary significantly by region. Overall patterns across Europe and North America are similar: early industrialization began through solid fuel consumption, however, through time this energy mix has diversified. Today, CO2 emissions are spread fairly equally between coal, oil, and gas. In contrast, Latin America and the Caribbean's emissions have historically been and remain a product of liquid fuel-even in the early stages of development coal consumption was small. 1\n\nAsia's energy remains dominant in solid fuel consumption and has notably higher cement contributions relative to other regions.²\n\nAfrica also has more notable emissions from cement and flaring; however, its key sources of emissions are a diverse mix of solid, liquid, and gas.\n\n# CO2 emissions by fuel or industry\n\nOur World\nin Data\n\nThe image displays line graphs of CO2 emissions from various industries across different regions (Asia, Africa, South America, North America, Oceania, and Europe) from 1750 to 2023. Each graph shows how emissions from cement, coal, flaring, gas, oil, and other industries have changed over time.  Generally, there's a significant increase in emissions across all regions, particularly after 1950, though the scale and sources of emissions vary by region.",
+        "enriched": null,
+        "enrichment_success": false
+      },
+      {
+        "blocks": [
+          {
+            "bbox": {
+              "height": 0.015228426395939087,
+              "left": 0.12220762155059132,
+              "page": 3,
+              "top": 0.5548223350253807,
+              "width": 0.6084099868593955,
+              "original_page": 3
+            },
+            "content": "Per capita: How do coal, oil, gas, and cement emissions compare?",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8813545465469361
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.029949238578680204,
+              "left": 0.12220762155059132,
+              "page": 3,
+              "top": 0.5959390862944163,
+              "width": 0.7187910643889619,
+              "original_page": 3
+            },
+            "content": "Total emissions from different sources - coal, oil, gas, and cement - largely reflect the population of a given country.",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8825475543737411
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.030456852791878174,
+              "left": 0.12155059132720106,
+              "page": 3,
+              "top": 0.6461928934010153,
+              "width": 0.735873850197109,
+              "original_page": 3
+            },
+            "content": "How do these figures compare when we look at them on a per capita basis? This chart shows per capita CO2 emissions from coal, oil, gas, flaring, and cement, measured in tonnes of CO2 per year.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9231600522994995
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.048730964467005075,
+              "left": 0.12155059132720106,
+              "page": 3,
+              "top": 0.6964467005076143,
+              "width": 0.7398160315374507,
+              "original_page": 3
+            },
+            "content": "The distribution across different fuel sources is very dependent on energy production and mix in a given country. In the US or the UK, for example, oil followed by gas are the largest contributors. In China and India, coal is much more dominant. In Russia, it's gas.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9502053707838058
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.016243654822335026,
+              "left": 0.1228646517739816,
+              "page": 4,
+              "top": 0.07614213197969544,
+              "width": 0.4664914586070959,
+              "original_page": 4
+            },
+            "content": "Per capita CO2 emissions by fuel type, World, 2023",
+            "type": "Title",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6376362442970276
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02081808487170844,
+              "left": 0.8866125600566689,
+              "page": 4,
+              "top": 0.07572477698931235,
+              "width": 0.059751813891056174,
+              "original_page": 4
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.3802742440253496
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.39912065225204235,
+              "left": 0.11827815252597322,
+              "page": 4,
+              "top": 0.09690022734821145,
+              "width": 0.8309477356197643,
+              "original_page": 4
+            },
+            "content": "| Source | Value (t) |\n|---|---|\n| Coal | 1.9 |\n| Oil | 1.51 |\n| Gas | 0.98 |\n| Cement | 0.19 |\n| Flaring | 0.05 |\n| Other industry | 0.04 |",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6978794157505035
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007614213197969543,
+              "left": 0.1228646517739816,
+              "page": 4,
+              "top": 0.49137055837563454,
+              "width": 0.3199737187910644,
+              "original_page": 4
+            },
+            "content": "OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.785576555132866
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.015228426395939087,
+              "left": 0.12220762155059132,
+              "page": 5,
+              "top": 0.0766497461928934,
+              "width": 0.3797634691195795,
+              "original_page": 5
+            },
+            "content": "Per capita CO2 emissions by source, 2019",
+            "type": "Title",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.803710263967514
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.016751269035532996,
+              "left": 0.8889618922470434,
+              "page": 5,
+              "top": 0.07766497461928934,
+              "width": 0.05584756898817345,
+              "original_page": 5
+            },
+            "content": "Our World\nin Data",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4589500844478607
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.4131261835243496,
+              "left": 0.117959432313696,
+              "page": 5,
+              "top": 0.08841791298183693,
+              "width": 0.8332723549881683,
+              "original_page": 5
+            },
+            "content": "| Country/Region | Coal (t) | Oil (t) | Gas (t) | Flaring (t) | Cement (t) | Other industry (t) | Total (t) |\n|---|---|---|---|---|---|---|---|\n| Australia | 6.5 | 5.6 | 3.2 | | | | 16 |\n| United States | 3.2 | 7 | 5 | | | | 16 |\n| Germany | 2.9 | 3.3 | 2.1 | | | | 8.5 |\n| South Africa | 6.6 | 0.93 | | | | | 7.8 |\n| China | 5.3 | 1.1 | | | | | 7.5 |\n| United Kingdom | | 2.5 | 2.4 | | | | 5.4 |\n| France | | 2.8 | 1.3 | | | | 4.8 |\n| World | 1.9 | 1.6 | 0.98 | | | | 4.8 |\n| Sweden | | 2.8 | | | | | 4 |\n| Brazil | | 1.4 | | | | | 2.3 |\n| India | 1.2 | | | | | | 1.9 |",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.70825876891613
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.008121827411167513,
+              "left": 0.6839684625492772,
+              "page": 5,
+              "top": 0.49949238578680205,
+              "width": 0.25098554533508544,
+              "original_page": 5
+            },
+            "content": "Related: CO₂ data: sources, methods and FAQS",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5282796293497085
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012182741116751269,
+              "left": 0.12220762155059132,
+              "page": 5,
+              "top": 0.5548223350253807,
+              "width": 0.19250985545335086,
+              "original_page": 5
+            },
+            "content": "Emissions from coal",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7543183386325836
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012690355329949238,
+              "left": 0.12155059132720106,
+              "page": 5,
+              "top": 0.5944162436548224,
+              "width": 0.27463863337713534,
+              "original_page": 5
+            },
+            "content": "Annual CO2 emissions from coal",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7116744011640549
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011675126903553299,
+              "left": 0.12089356110381078,
+              "page": 5,
+              "top": 0.6335025380710659,
+              "width": 0.4816031537450723,
+              "original_page": 5
+            },
+            "content": "Which countries are the largest CO2 emitters from coal production?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7911899179220199
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012182741116751269,
+              "left": 0.12220762155059132,
+              "page": 5,
+              "top": 0.6649746192893401,
+              "width": 0.6366622864651774,
+              "original_page": 5
+            },
+            "content": "This interactive chart shows annual emissions from coal production by country, over time.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7033961415290833
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.06802030456852792,
+              "left": 0.12155059132720106,
+              "page": 5,
+              "top": 0.6964467005076143,
+              "width": 0.7043363994743759,
+              "original_page": 5
+            },
+            "content": "What becomes clear when we look across countries is how coal production has shifted over time. Throughout the 19th and 20th centuries, coal production was dominant across countries in Europe (predominantly the UK) and the United States. However, energy transitions in these countries have resulted in significant declines in recent decades.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9410485655069352
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.029441624365482234,
+              "left": 0.12220762155059132,
+              "page": 5,
+              "top": 0.7847715736040609,
+              "width": 0.683311432325887,
+              "original_page": 5
+            },
+            "content": "Emissions from coal have since shifted elsewhere: in recent decades we have seen a rapid rise in emissions from industrializing economies such as China, India, and South Africa.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9545368671417236
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.014213197969543147,
+              "left": 0.12155059132720106,
+              "page": 6,
+              "top": 0.0766497461928934,
+              "width": 0.3035479632063075,
+              "original_page": 6
+            },
+            "content": "Annual CO2 emissions from coal",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.591757345199585
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.12220762155059132,
+              "page": 6,
+              "top": 0.09746192893401015,
+              "width": 0.4204993429697766,
+              "original_page": 6
+            },
+            "content": "Annual emissions of carbon dioxide (CO2) from coal, measured in tonnes.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5253993332386017
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.022466746683653237,
+              "left": 0.8845021552387894,
+              "page": 6,
+              "top": 0.0751231546934486,
+              "width": 0.06208686978995565,
+              "original_page": 6
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5347494170069694
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.3881798139078363,
+              "left": 0.11865921120762668,
+              "page": 6,
+              "top": 0.1171855481142925,
+              "width": 0.8331518887533621,
+              "original_page": 6
+            },
+            "content": "The line graph shows the CO2 emissions of various countries from 1750 to 2023.  China's emissions have dramatically increased since 2000, far exceeding those of other countries. Most other countries' emissions either plateaued or decreased towards the end of the displayed period.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8037805765867234
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.015228426395939087,
+              "left": 0.12220762155059132,
+              "page": 6,
+              "top": 0.5527918781725888,
+              "width": 0.297634691195795,
+              "original_page": 6
+            },
+            "content": "Per capita CO2 emissions from coal",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7184937596321106
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012182741116751269,
+              "left": 0.1228646517739816,
+              "page": 6,
+              "top": 0.5923857868020305,
+              "width": 0.49540078843626806,
+              "original_page": 6
+            },
+            "content": "How do emissions from coal compare when we adjust for population?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.685577979683876
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01116751269035533,
+              "left": 0.12220762155059132,
+              "page": 6,
+              "top": 0.6248730964467005,
+              "width": 0.7463863337713534,
+              "original_page": 6
+            },
+            "content": "This interactive chart shows per capita CO2 emissions from coal, measured in tonnes per person per year.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5563263580203056
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.014720812182741117,
+              "left": 0.12352168199737187,
+              "page": 7,
+              "top": 0.0766497461928934,
+              "width": 0.3823915900131406,
+              "original_page": 7
+            },
+            "content": "Per capita CO2 emissions from coal, 2023",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.43872513622045517
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.021729708444043466,
+              "left": 0.8851769105206965,
+              "page": 7,
+              "top": 0.07545570334807265,
+              "width": 0.06128555277800592,
+              "original_page": 7
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4935742080211639
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009644670050761422,
+              "left": 0.12220762155059132,
+              "page": 7,
+              "top": 0.09695431472081219,
+              "width": 0.4868593955321945,
+              "original_page": 7
+            },
+            "content": "Annual emissions of carbon dioxide (CO2) from coal, measured in tonnes per person.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.40119710229337213
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.3563305695044813,
+              "left": 0.11885662304430848,
+              "page": 7,
+              "top": 0.11729421857649905,
+              "width": 0.8323115625769957,
+              "original_page": 7
+            },
+            "content": "This world map displays annual per capita CO2 emissions from coal in 2023, with countries color-coded from light yellow (0 tonnes) to dark brown (5+ tonnes per person). The highest emissions appear concentrated in parts of Asia (particularly China and surrounding regions), Australia, and some areas of North America, while much of Africa and parts of South America show minimal coal-based CO2 emissions per capita. The color gradient clearly illustrates the significant global disparity in coal usage for CO2 emissions on a per-person basis.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6853460133075714
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02284263959390863,
+              "left": 0.12352168199737187,
+              "page": 7,
+              "top": 0.47715736040609136,
+              "width": 0.676084099868594,
+              "original_page": 7
+            },
+            "content": "Data source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.48702162355184553
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01015228426395939,
+              "left": 0.8469119579500657,
+              "page": 7,
+              "top": 0.48375634517766497,
+              "width": 0.010512483574244415,
+              "original_page": 7
+            },
+            "content": "→",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5170249342918396
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.008121827411167513,
+              "left": 0.9270696452036794,
+              "page": 7,
+              "top": 0.48375634517766497,
+              "width": 0.00788436268068331,
+              "original_page": 7
+            },
+            "content": "[",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4296875298023224
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012690355329949238,
+              "left": 0.12220762155059132,
+              "page": 7,
+              "top": 0.5543147208121827,
+              "width": 0.1773981603153745,
+              "original_page": 7
+            },
+            "content": "Emissions from oil",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6608757004141808
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012690355329949238,
+              "left": 0.12089356110381078,
+              "page": 7,
+              "top": 0.5944162436548224,
+              "width": 0.2628120893561104,
+              "original_page": 7
+            },
+            "content": "Annual CO2 emissions from oil",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6257973968982696
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01116751269035533,
+              "left": 0.12155059132720106,
+              "page": 7,
+              "top": 0.6335025380710659,
+              "width": 0.36727989487516427,
+              "original_page": 7
+            },
+            "content": "Which countries are the largest CO2 emitters of oil?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7472002416849136
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01065989847715736,
+              "left": 0.1228646517739816,
+              "page": 7,
+              "top": 0.6654822335025381,
+              "width": 0.5420499342969777,
+              "original_page": 7
+            },
+            "content": "This interactive chart shows annual emissions from oil by country, over time.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6040352314710618
+            },
+            "image_url": null
+          }
+        ],
+        "content": "## Per capita: How do coal, oil, gas, and cement emissions compare?\n\nTotal emissions from different sources - coal, oil, gas, and cement - largely reflect the population of a given country.\n\nHow do these figures compare when we look at them on a per capita basis? This chart shows per capita CO2 emissions from coal, oil, gas, flaring, and cement, measured in tonnes of CO2 per year.\n\nThe distribution across different fuel sources is very dependent on energy production and mix in a given country. In the US or the UK, for example, oil followed by gas are the largest contributors. In China and India, coal is much more dominant. In Russia, it's gas.\n\n# Per capita CO2 emissions by fuel type, World, 2023\n\nOur World\nin Data\n\n| Source | Value (t) |\n|---|---|\n| Coal | 1.9 |\n| Oil | 1.51 |\n| Gas | 0.98 |\n| Cement | 0.19 |\n| Flaring | 0.05 |\n| Other industry | 0.04 |\n\nOurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n# Per capita CO2 emissions by source, 2019\n\nOur World\nin Data\n\n| Country/Region | Coal (t) | Oil (t) | Gas (t) | Flaring (t) | Cement (t) | Other industry (t) | Total (t) |\n|---|---|---|---|---|---|---|---|\n| Australia | 6.5 | 5.6 | 3.2 | | | | 16 |\n| United States | 3.2 | 7 | 5 | | | | 16 |\n| Germany | 2.9 | 3.3 | 2.1 | | | | 8.5 |\n| South Africa | 6.6 | 0.93 | | | | | 7.8 |\n| China | 5.3 | 1.1 | | | | | 7.5 |\n| United Kingdom | | 2.5 | 2.4 | | | | 5.4 |\n| France | | 2.8 | 1.3 | | | | 4.8 |\n| World | 1.9 | 1.6 | 0.98 | | | | 4.8 |\n| Sweden | | 2.8 | | | | | 4 |\n| Brazil | | 1.4 | | | | | 2.3 |\n| India | 1.2 | | | | | | 1.9 |\n\nRelated: CO₂ data: sources, methods and FAQS\n\n## Emissions from coal\n\n## Annual CO2 emissions from coal\n\nWhich countries are the largest CO2 emitters from coal production?\n\nThis interactive chart shows annual emissions from coal production by country, over time.\n\nWhat becomes clear when we look across countries is how coal production has shifted over time. Throughout the 19th and 20th centuries, coal production was dominant across countries in Europe (predominantly the UK) and the United States. However, energy transitions in these countries have resulted in significant declines in recent decades.\n\nEmissions from coal have since shifted elsewhere: in recent decades we have seen a rapid rise in emissions from industrializing economies such as China, India, and South Africa.\n\n# Annual CO2 emissions from coal\n\nAnnual emissions of carbon dioxide (CO2) from coal, measured in tonnes.\n\nOur World\nin Data\n\nThe line graph shows the CO2 emissions of various countries from 1750 to 2023.  China's emissions have dramatically increased since 2000, far exceeding those of other countries. Most other countries' emissions either plateaued or decreased towards the end of the displayed period.\n\n## Per capita CO2 emissions from coal\n\nHow do emissions from coal compare when we adjust for population?\n\nThis interactive chart shows per capita CO2 emissions from coal, measured in tonnes per person per year.\n\n# Per capita CO2 emissions from coal, 2023\n\nOur World\nin Data\n\nAnnual emissions of carbon dioxide (CO2) from coal, measured in tonnes per person.\n\nThis world map displays annual per capita CO2 emissions from coal in 2023, with countries color-coded from light yellow (0 tonnes) to dark brown (5+ tonnes per person). The highest emissions appear concentrated in parts of Asia (particularly China and surrounding regions), Australia, and some areas of North America, while much of Africa and parts of South America show minimal coal-based CO2 emissions per capita. The color gradient clearly illustrates the significant global disparity in coal usage for CO2 emissions on a per-person basis.\n\nData source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n→\n\n[\n\n## Emissions from oil\n\nAnnual CO2 emissions from oil\n\nWhich countries are the largest CO2 emitters of oil?\n\nThis interactive chart shows annual emissions from oil by country, over time.",
+        "embed": "## Per capita: How do coal, oil, gas, and cement emissions compare?\n\nTotal emissions from different sources - coal, oil, gas, and cement - largely reflect the population of a given country.\n\nHow do these figures compare when we look at them on a per capita basis? This chart shows per capita CO2 emissions from coal, oil, gas, flaring, and cement, measured in tonnes of CO2 per year.\n\nThe distribution across different fuel sources is very dependent on energy production and mix in a given country. In the US or the UK, for example, oil followed by gas are the largest contributors. In China and India, coal is much more dominant. In Russia, it's gas.\n\n# Per capita CO2 emissions by fuel type, World, 2023\n\nOur World\nin Data\n\n| Source | Value (t) |\n|---|---|\n| Coal | 1.9 |\n| Oil | 1.51 |\n| Gas | 0.98 |\n| Cement | 0.19 |\n| Flaring | 0.05 |\n| Other industry | 0.04 |\n\nOurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n# Per capita CO2 emissions by source, 2019\n\nOur World\nin Data\n\n| Country/Region | Coal (t) | Oil (t) | Gas (t) | Flaring (t) | Cement (t) | Other industry (t) | Total (t) |\n|---|---|---|---|---|---|---|---|\n| Australia | 6.5 | 5.6 | 3.2 | | | | 16 |\n| United States | 3.2 | 7 | 5 | | | | 16 |\n| Germany | 2.9 | 3.3 | 2.1 | | | | 8.5 |\n| South Africa | 6.6 | 0.93 | | | | | 7.8 |\n| China | 5.3 | 1.1 | | | | | 7.5 |\n| United Kingdom | | 2.5 | 2.4 | | | | 5.4 |\n| France | | 2.8 | 1.3 | | | | 4.8 |\n| World | 1.9 | 1.6 | 0.98 | | | | 4.8 |\n| Sweden | | 2.8 | | | | | 4 |\n| Brazil | | 1.4 | | | | | 2.3 |\n| India | 1.2 | | | | | | 1.9 |\n\nRelated: CO₂ data: sources, methods and FAQS\n\n## Emissions from coal\n\n## Annual CO2 emissions from coal\n\nWhich countries are the largest CO2 emitters from coal production?\n\nThis interactive chart shows annual emissions from coal production by country, over time.\n\nWhat becomes clear when we look across countries is how coal production has shifted over time. Throughout the 19th and 20th centuries, coal production was dominant across countries in Europe (predominantly the UK) and the United States. However, energy transitions in these countries have resulted in significant declines in recent decades.\n\nEmissions from coal have since shifted elsewhere: in recent decades we have seen a rapid rise in emissions from industrializing economies such as China, India, and South Africa.\n\n# Annual CO2 emissions from coal\n\nAnnual emissions of carbon dioxide (CO2) from coal, measured in tonnes.\n\nOur World\nin Data\n\nThe line graph shows the CO2 emissions of various countries from 1750 to 2023.  China's emissions have dramatically increased since 2000, far exceeding those of other countries. Most other countries' emissions either plateaued or decreased towards the end of the displayed period.\n\n## Per capita CO2 emissions from coal\n\nHow do emissions from coal compare when we adjust for population?\n\nThis interactive chart shows per capita CO2 emissions from coal, measured in tonnes per person per year.\n\n# Per capita CO2 emissions from coal, 2023\n\nOur World\nin Data\n\nAnnual emissions of carbon dioxide (CO2) from coal, measured in tonnes per person.\n\nThis world map displays annual per capita CO2 emissions from coal in 2023, with countries color-coded from light yellow (0 tonnes) to dark brown (5+ tonnes per person). The highest emissions appear concentrated in parts of Asia (particularly China and surrounding regions), Australia, and some areas of North America, while much of Africa and parts of South America show minimal coal-based CO2 emissions per capita. The color gradient clearly illustrates the significant global disparity in coal usage for CO2 emissions on a per-person basis.\n\nData source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n→\n\n[\n\n## Emissions from oil\n\nAnnual CO2 emissions from oil\n\nWhich countries are the largest CO2 emitters of oil?\n\nThis interactive chart shows annual emissions from oil by country, over time.",
+        "enriched": null,
+        "enrichment_success": false
+      },
+      {
+        "blocks": [
+          {
+            "bbox": {
+              "height": 0.014720812182741117,
+              "left": 0.12155059132720106,
+              "page": 8,
+              "top": 0.07614213197969544,
+              "width": 0.2871222076215506,
+              "original_page": 8
+            },
+            "content": "Annual CO2 emissions from oil",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5541520327329635
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.12220762155059132,
+              "page": 8,
+              "top": 0.09746192893401015,
+              "width": 0.41130091984231276,
+              "original_page": 8
+            },
+            "content": "Annual emissions of carbon dioxide (CO2) from oil, measured in tonnes.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5271914690732956
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.022478914987012214,
+              "left": 0.8845917429779895,
+              "page": 8,
+              "top": 0.07507876478475968,
+              "width": 0.06198156208935611,
+              "original_page": 8
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5311552852392196
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.38781584918801554,
+              "left": 0.11646030140299052,
+              "page": 8,
+              "top": 0.11677312705722558,
+              "width": 0.834752477578202,
+              "original_page": 8
+            },
+            "content": "This line chart shows CO2 emissions from 1750 to 2023 for major countries and regions, measured in billions of tonnes. The United States leads with the highest emissions peaking around 2.6 billion tonnes in the early 2000s, followed by China which shows dramatic growth starting around 1980 and reaching about 1.6 billion tonnes by 2023. Other countries including the European Union, India, Japan, United Kingdom, Australia, and South Africa show much lower emission levels, all staying below 1 billion tonnes throughout the time period.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8009063154459
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.015228426395939087,
+              "left": 0.12220762155059132,
+              "page": 8,
+              "top": 0.5527918781725888,
+              "width": 0.2831800262812089,
+              "original_page": 8
+            },
+            "content": "Per capita CO2 emissions from oil",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7580057770013808
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012182741116751269,
+              "left": 0.1228646517739816,
+              "page": 8,
+              "top": 0.5923857868020305,
+              "width": 0.48291721419185285,
+              "original_page": 8
+            },
+            "content": "How do emissions from oil compare when we adjust for population?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7090669095516204
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01116751269035533,
+              "left": 0.12220762155059132,
+              "page": 8,
+              "top": 0.6248730964467005,
+              "width": 0.7345597897503285,
+              "original_page": 8
+            },
+            "content": "This interactive chart shows per capita CO2 emissions from oil, measured in tonnes per person per year.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5566633209586143
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.016243654822335026,
+              "left": 0.1228646517739816,
+              "page": 9,
+              "top": 0.07563451776649746,
+              "width": 0.36727989487516427,
+              "original_page": 9
+            },
+            "content": "Per capita CO2 emissions from oil, 2023",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4610406756401062
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.021816544121292036,
+              "left": 0.8851887806956308,
+              "page": 9,
+              "top": 0.07542702921756028,
+              "width": 0.06133167001170335,
+              "original_page": 9
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.49582493528723715
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.1228646517739816,
+              "page": 9,
+              "top": 0.09746192893401015,
+              "width": 0.4763469119579501,
+              "original_page": 9
+            },
+            "content": "Annual emissions of carbon dioxide (CO2) from oil, measured in tonnes per person.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.39157994762063025
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.37677915931353106,
+              "left": 0.11872710379601778,
+              "page": 9,
+              "top": 0.1172760164677189,
+              "width": 0.8310339046683793,
+              "original_page": 9
+            },
+            "content": "This is a choropleth map visualizing annual carbon dioxide emissions from oil in tonnes per person.  Darker blue colors indicate higher emissions, while lighter shades represent lower emissions and white signifies no data. The map shows that countries like the US, Australia, and those in the Middle East have significantly higher CO2 emissions per person compared to other regions.\n",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6089891836047172
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02284263959390863,
+              "left": 0.12352168199737187,
+              "page": 9,
+              "top": 0.47715736040609136,
+              "width": 0.676084099868594,
+              "original_page": 9
+            },
+            "content": "Data source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4476576581597328
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.016243654822335026,
+              "left": 0.12155059132720106,
+              "page": 9,
+              "top": 0.5532994923857868,
+              "width": 0.18528252299605782,
+              "original_page": 9
+            },
+            "content": "Emissions from gas",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6112905144691467
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.014213197969543147,
+              "left": 0.12089356110381078,
+              "page": 9,
+              "top": 0.5939086294416244,
+              "width": 0.26872536136662284,
+              "original_page": 9
+            },
+            "content": "Annual CO2 emissions from gas",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6230639562010765
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01116751269035533,
+              "left": 0.12155059132720106,
+              "page": 9,
+              "top": 0.6335025380710659,
+              "width": 0.37385019710906703,
+              "original_page": 9
+            },
+            "content": "Which countries are the largest CO2 emitters of gas?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.721824163198471
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01116751269035533,
+              "left": 0.1228646517739816,
+              "page": 9,
+              "top": 0.6654822335025381,
+              "width": 0.5492772667542707,
+              "original_page": 9
+            },
+            "content": "This interactive chart shows annual emissions from gas by country, over time.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6014726519584656
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.015228426395939087,
+              "left": 0.12155059132720106,
+              "page": 10,
+              "top": 0.07614213197969544,
+              "width": 0.29500657030223393,
+              "original_page": 10
+            },
+            "content": "Annual CO2 emissions from gas",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.525304952263832
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.1228646517739816,
+              "page": 10,
+              "top": 0.09746192893401015,
+              "width": 0.4152431011826544,
+              "original_page": 10
+            },
+            "content": "Annual emissions of carbon dioxide (CO2) from gas, measured in tonnes.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5574617877602577
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02244141089734692,
+              "left": 0.8846251879979057,
+              "page": 10,
+              "top": 0.07512488195738816,
+              "width": 0.06187841989364323,
+              "original_page": 10
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5119752243161201
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.38878618424313927,
+              "left": 0.11589982663128286,
+              "page": 10,
+              "top": 0.11742682287535691,
+              "width": 0.8340666641856932,
+              "original_page": 10
+            },
+            "content": "The line graph shows cumulative CO2 and greenhouse gas emissions from 1750 to 2023 for various countries and regions, measured in billions of tonnes. The United States leads with the highest cumulative emissions at approximately 1.7 billion tonnes, followed by Russia and the European Union at around 800-900 million tonnes each. Most countries show dramatic increases in emissions starting around 1900, with particularly steep growth after 1950.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8433943510055543
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.013197969543147208,
+              "left": 0.12220762155059132,
+              "page": 10,
+              "top": 0.5543147208121827,
+              "width": 0.290407358738502,
+              "original_page": 10
+            },
+            "content": "Per capita CO2 emissions from gas",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7842275589704513
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011675126903553299,
+              "left": 0.1228646517739816,
+              "page": 10,
+              "top": 0.5934010152284264,
+              "width": 0.4894875164257556,
+              "original_page": 10
+            },
+            "content": "How do emissions from gas compare when we adjust for population?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7184971123933792
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011675126903553299,
+              "left": 0.12220762155059132,
+              "page": 10,
+              "top": 0.6248730964467005,
+              "width": 0.7417871222076216,
+              "original_page": 10
+            },
+            "content": "This interactive chart shows per capita CO2 emissions from gas, measured in tonnes per person per year.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.580534353852272
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.015228426395939087,
+              "left": 0.1228646517739816,
+              "page": 11,
+              "top": 0.0766497461928934,
+              "width": 0.3745072273324573,
+              "original_page": 11
+            },
+            "content": "Per capita CO2 emissions from gas, 2023",
+            "type": "Title",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.42173535749316216
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.37611217208320114,
+              "left": 0.11886961607362845,
+              "page": 11,
+              "top": 0.11743470787396891,
+              "width": 0.8310145855576544,
+              "original_page": 11
+            },
+            "content": "This world map displays per capita CO2 emissions from gas in 2023, measured in tonnes per person, using a color scale from light yellow (0 tonnes) to dark red (10+ tonnes). The highest emissions are concentrated in North America, Russia, Australia, and parts of the Middle East, which appear in dark red indicating 10+ tonnes per person. Many African countries show no data (gray hatching) or very low emissions (light yellow), while European and some Asian countries show moderate emissions in orange and light red tones.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6396006733179093
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.12220762155059132,
+              "page": 11,
+              "top": 0.09746192893401015,
+              "width": 0.48226018396846254,
+              "original_page": 11
+            },
+            "content": "Annual emissions of carbon dioxide (CO2) from gas, measured in tonnes per person.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4133945073932409
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02167494720613896,
+              "left": 0.8852826192407195,
+              "page": 11,
+              "top": 0.07548178270988658,
+              "width": 0.06118168874733081,
+              "original_page": 11
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4853970386087894
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.023350253807106598,
+              "left": 0.1228646517739816,
+              "page": 11,
+              "top": 0.47715736040609136,
+              "width": 0.676084099868594,
+              "original_page": 11
+            },
+            "content": "Data source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.44087706357240675
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.017766497461928935,
+              "left": 0.12220762155059132,
+              "page": 11,
+              "top": 0.5527918781725888,
+              "width": 0.3311432325886991,
+              "original_page": 11
+            },
+            "content": "Emissions from cement production",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6327366560697556
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.013197969543147208,
+              "left": 0.12089356110381078,
+              "page": 11,
+              "top": 0.5944162436548224,
+              "width": 0.3035479632063075,
+              "original_page": 11
+            },
+            "content": "Annual CO2 emissions from cement",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6067623928189277
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01116751269035533,
+              "left": 0.12155059132720106,
+              "page": 11,
+              "top": 0.6335025380710659,
+              "width": 0.5045992115637319,
+              "original_page": 11
+            },
+            "content": "Which countries are the largest CO2 emitters from cement production?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5977344587445259
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011675126903553299,
+              "left": 0.12220762155059132,
+              "page": 11,
+              "top": 0.6649746192893401,
+              "width": 0.6622864651773982,
+              "original_page": 11
+            },
+            "content": "This interactive chart shows annual emissions from cement production by country, over time.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.45624282956123346
+            },
+            "image_url": null
+          }
+        ],
+        "content": "# Annual CO2 emissions from oil\n\nAnnual emissions of carbon dioxide (CO2) from oil, measured in tonnes.\n\nOur World\nin Data\n\nThis line chart shows CO2 emissions from 1750 to 2023 for major countries and regions, measured in billions of tonnes. The United States leads with the highest emissions peaking around 2.6 billion tonnes in the early 2000s, followed by China which shows dramatic growth starting around 1980 and reaching about 1.6 billion tonnes by 2023. Other countries including the European Union, India, Japan, United Kingdom, Australia, and South Africa show much lower emission levels, all staying below 1 billion tonnes throughout the time period.\n\n## Per capita CO2 emissions from oil\n\nHow do emissions from oil compare when we adjust for population?\n\nThis interactive chart shows per capita CO2 emissions from oil, measured in tonnes per person per year.\n\n# Per capita CO2 emissions from oil, 2023\n\nOur World\nin Data\n\nAnnual emissions of carbon dioxide (CO2) from oil, measured in tonnes per person.\n\nThis is a choropleth map visualizing annual carbon dioxide emissions from oil in tonnes per person.  Darker blue colors indicate higher emissions, while lighter shades represent lower emissions and white signifies no data. The map shows that countries like the US, Australia, and those in the Middle East have significantly higher CO2 emissions per person compared to other regions.\n\n\nData source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n## Emissions from gas\n\nAnnual CO2 emissions from gas\n\nWhich countries are the largest CO2 emitters of gas?\n\nThis interactive chart shows annual emissions from gas by country, over time.\n\n# Annual CO2 emissions from gas\n\nAnnual emissions of carbon dioxide (CO2) from gas, measured in tonnes.\n\nOur World\nin Data\n\nThe line graph shows cumulative CO2 and greenhouse gas emissions from 1750 to 2023 for various countries and regions, measured in billions of tonnes. The United States leads with the highest cumulative emissions at approximately 1.7 billion tonnes, followed by Russia and the European Union at around 800-900 million tonnes each. Most countries show dramatic increases in emissions starting around 1900, with particularly steep growth after 1950.\n\n## Per capita CO2 emissions from gas\n\nHow do emissions from gas compare when we adjust for population?\n\nThis interactive chart shows per capita CO2 emissions from gas, measured in tonnes per person per year.\n\n# Per capita CO2 emissions from gas, 2023\n\nThis world map displays per capita CO2 emissions from gas in 2023, measured in tonnes per person, using a color scale from light yellow (0 tonnes) to dark red (10+ tonnes). The highest emissions are concentrated in North America, Russia, Australia, and parts of the Middle East, which appear in dark red indicating 10+ tonnes per person. Many African countries show no data (gray hatching) or very low emissions (light yellow), while European and some Asian countries show moderate emissions in orange and light red tones.\n\nAnnual emissions of carbon dioxide (CO2) from gas, measured in tonnes per person.\n\nOur World\nin Data\n\nData source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n## Emissions from cement production\n\nAnnual CO2 emissions from cement\n\nWhich countries are the largest CO2 emitters from cement production?\n\nThis interactive chart shows annual emissions from cement production by country, over time.",
+        "embed": "# Annual CO2 emissions from oil\n\nAnnual emissions of carbon dioxide (CO2) from oil, measured in tonnes.\n\nOur World\nin Data\n\nThis line chart shows CO2 emissions from 1750 to 2023 for major countries and regions, measured in billions of tonnes. The United States leads with the highest emissions peaking around 2.6 billion tonnes in the early 2000s, followed by China which shows dramatic growth starting around 1980 and reaching about 1.6 billion tonnes by 2023. Other countries including the European Union, India, Japan, United Kingdom, Australia, and South Africa show much lower emission levels, all staying below 1 billion tonnes throughout the time period.\n\n## Per capita CO2 emissions from oil\n\nHow do emissions from oil compare when we adjust for population?\n\nThis interactive chart shows per capita CO2 emissions from oil, measured in tonnes per person per year.\n\n# Per capita CO2 emissions from oil, 2023\n\nOur World\nin Data\n\nAnnual emissions of carbon dioxide (CO2) from oil, measured in tonnes per person.\n\nThis is a choropleth map visualizing annual carbon dioxide emissions from oil in tonnes per person.  Darker blue colors indicate higher emissions, while lighter shades represent lower emissions and white signifies no data. The map shows that countries like the US, Australia, and those in the Middle East have significantly higher CO2 emissions per person compared to other regions.\n\n\nData source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n## Emissions from gas\n\nAnnual CO2 emissions from gas\n\nWhich countries are the largest CO2 emitters of gas?\n\nThis interactive chart shows annual emissions from gas by country, over time.\n\n# Annual CO2 emissions from gas\n\nAnnual emissions of carbon dioxide (CO2) from gas, measured in tonnes.\n\nOur World\nin Data\n\nThe line graph shows cumulative CO2 and greenhouse gas emissions from 1750 to 2023 for various countries and regions, measured in billions of tonnes. The United States leads with the highest cumulative emissions at approximately 1.7 billion tonnes, followed by Russia and the European Union at around 800-900 million tonnes each. Most countries show dramatic increases in emissions starting around 1900, with particularly steep growth after 1950.\n\n## Per capita CO2 emissions from gas\n\nHow do emissions from gas compare when we adjust for population?\n\nThis interactive chart shows per capita CO2 emissions from gas, measured in tonnes per person per year.\n\n# Per capita CO2 emissions from gas, 2023\n\nThis world map displays per capita CO2 emissions from gas in 2023, measured in tonnes per person, using a color scale from light yellow (0 tonnes) to dark red (10+ tonnes). The highest emissions are concentrated in North America, Russia, Australia, and parts of the Middle East, which appear in dark red indicating 10+ tonnes per person. Many African countries show no data (gray hatching) or very low emissions (light yellow), while European and some Asian countries show moderate emissions in orange and light red tones.\n\nAnnual emissions of carbon dioxide (CO2) from gas, measured in tonnes per person.\n\nOur World\nin Data\n\nData source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n## Emissions from cement production\n\nAnnual CO2 emissions from cement\n\nWhich countries are the largest CO2 emitters from cement production?\n\nThis interactive chart shows annual emissions from cement production by country, over time.",
+        "enriched": null,
+        "enrichment_success": false
+      },
+      {
+        "blocks": [
+          {
+            "bbox": {
+              "height": 0.013705583756345178,
+              "left": 0.12155059132720106,
+              "page": 12,
+              "top": 0.0766497461928934,
+              "width": 0.3344283837056505,
+              "original_page": 12
+            },
+            "content": "Annual CO2 emissions from cement",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5675155222415924
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.1228646517739816,
+              "page": 12,
+              "top": 0.09746192893401015,
+              "width": 0.44021024967148487,
+              "original_page": 12
+            },
+            "content": "Annual emissions of carbon dioxide (CO2) from cement, measured in tonnes.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5331310510635376
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02236678225134835,
+              "left": 0.8846423516292297,
+              "page": 12,
+              "top": 0.07515287447701856,
+              "width": 0.061916195923332785,
+              "original_page": 12
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5204203307628631
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.3884320254253252,
+              "left": 0.11571781394046177,
+              "page": 12,
+              "top": 0.11783334180183216,
+              "width": 0.8350715687334459,
+              "original_page": 12
+            },
+            "content": "The image shows a line graph of CO2 emissions from 1800 to 2023 for China, India, the United States, South Africa, and Australia. China's emissions sharply increased after the 2000s, surpassing other countries. India's emissions also show a steady rise, while the emissions of the United States, South Africa, and Australia remain relatively stable.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7953093469142914
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.013705583756345178,
+              "left": 0.12220762155059132,
+              "page": 12,
+              "top": 0.5543147208121827,
+              "width": 0.32457293035479634,
+              "original_page": 12
+            },
+            "content": "Per capita CO2 emissions from cement",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8569077670574188
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011675126903553299,
+              "left": 0.12220762155059132,
+              "page": 12,
+              "top": 0.5934010152284264,
+              "width": 0.6031537450722734,
+              "original_page": 12
+            },
+            "content": "How do emissions from cement production compare when we adjust for population?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6267621889710426
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.030456852791878174,
+              "left": 0.1228646517739816,
+              "page": 12,
+              "top": 0.6248730964467005,
+              "width": 0.735873850197109,
+              "original_page": 12
+            },
+            "content": "This interactive chart shows per capita CO2 emissions from cement production, measured in tonnes per person per year.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7861154019832611
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.014720812182741117,
+              "left": 0.12352168199737187,
+              "page": 13,
+              "top": 0.0766497461928934,
+              "width": 0.4126149802890933,
+              "original_page": 13
+            },
+            "content": "Per capita CO2 emissions from cement, 2023",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4515944302082061
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.12220762155059132,
+              "page": 13,
+              "top": 0.09746192893401015,
+              "width": 0.5059132720105125,
+              "original_page": 13
+            },
+            "content": "Annual emissions of carbon dioxide (CO2) from cement, measured in tonnes per person.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4031528156250715
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0217387475338079,
+              "left": 0.8852046610647996,
+              "page": 13,
+              "top": 0.07544624599708519,
+              "width": 0.061305122525870566,
+              "original_page": 13
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.49228781387209886
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.36520180484365083,
+              "left": 0.11929445605083772,
+              "page": 13,
+              "top": 0.11715311737835105,
+              "width": 0.8302531298763962,
+              "original_page": 13
+            },
+            "content": "The map illustrates global CO2 emissions per capita as of 2023, with darker shades indicating higher emissions. Countries like China and parts of the Middle East have the highest emissions per capita, while regions in Africa and South America show much lower levels. Areas with no data are marked in gray.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6388530299067497
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.023350253807106598,
+              "left": 0.1228646517739816,
+              "page": 13,
+              "top": 0.47715736040609136,
+              "width": 0.7345597897503285,
+              "original_page": 13
+            },
+            "content": "Data source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data → OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.463195376098156
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.008121827411167513,
+              "left": 0.9270696452036794,
+              "page": 13,
+              "top": 0.48375634517766497,
+              "width": 0.00788436268068331,
+              "original_page": 13
+            },
+            "content": "[",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4292016625404358
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.016751269035532996,
+              "left": 0.12220762155059132,
+              "page": 13,
+              "top": 0.5527918781725888,
+              "width": 0.25295663600525625,
+              "original_page": 13
+            },
+            "content": "Emissions from gas flaring",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6464317589998245
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.015228426395939087,
+              "left": 0.12089356110381078,
+              "page": 13,
+              "top": 0.5934010152284264,
+              "width": 0.32982917214191854,
+              "original_page": 13
+            },
+            "content": "Annual CO2 emissions from gas flaring",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6073172718286515
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01116751269035533,
+              "left": 0.12155059132720106,
+              "page": 13,
+              "top": 0.6335025380710659,
+              "width": 0.44415243101182655,
+              "original_page": 13
+            },
+            "content": "Which countries are the largest CO2 emitters from gas flaring?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6184598281979561
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.011675126903553299,
+              "left": 0.12220762155059132,
+              "page": 13,
+              "top": 0.6649746192893401,
+              "width": 0.5992115637319316,
+              "original_page": 13
+            },
+            "content": "This interactive chart shows annual emissions from gas flaring by country, over time.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5433665990829468
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012182741116751269,
+              "left": 0.14586070959264127,
+              "page": 13,
+              "top": 0.7142131979695432,
+              "width": 0.14651773981603153,
+              "original_page": 13
+            },
+            "content": "What is gas flaring?",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6879288762807846
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01015228426395939,
+              "left": 0.14651773981603153,
+              "page": 13,
+              "top": 0.7401015228426396,
+              "width": 0.4783180026281209,
+              "original_page": 13
+            },
+            "content": "Gas flaring is the burning of natural gas, often on oil or gas extraction sites.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6051709771156311
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04365482233502538,
+              "left": 0.14586070959264127,
+              "page": 13,
+              "top": 0.7629441624365483,
+              "width": 0.7049934296977661,
+              "original_page": 13
+            },
+            "content": "Gas can be produced as a by-product during oil extraction and refining. If there are no on-site uses for the gas, refineries can either inject it back into the ground, let it vent to the atmosphere, or burn (i.e. flare) it. This flaring process produces greenhouse gas emissions.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6494062960147857
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.014720812182741117,
+              "left": 0.12155059132720106,
+              "page": 14,
+              "top": 0.0766497461928934,
+              "width": 0.32588699080157685,
+              "original_page": 14
+            },
+            "content": "Annual CO2 emissions from flaring",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6500067383050918
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.1228646517739816,
+              "page": 14,
+              "top": 0.09695431472081219,
+              "width": 0.4336399474375821,
+              "original_page": 14
+            },
+            "content": "Annual emissions of carbon dioxide (CO2) from flaring, measured in tonnes.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.49837421327829357
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.022303446658371667,
+              "left": 0.8849109544390604,
+              "page": 14,
+              "top": 0.07513806493149192,
+              "width": 0.0617448002217477,
+              "original_page": 14
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5186783477663993
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.3883354535562738,
+              "left": 0.11828787724699204,
+              "page": 14,
+              "top": 0.11703071400598826,
+              "width": 0.8317673190664524,
+              "original_page": 14
+            },
+            "content": "The line graph shows CO₂ emissions from flaring for several regions from 1750 to 2023. The United States exhibits the highest fluctuation, peaking sharply around the 2000s. Other regions like the European Union, Canada, and Australia show relatively moderate increases over time.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7713344782590866
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.013705583756345178,
+              "left": 0.12220762155059132,
+              "page": 14,
+              "top": 0.5543147208121827,
+              "width": 0.35151116951379763,
+              "original_page": 14
+            },
+            "content": "Per capita CO2 emissions from gas flaring",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7725356996059418
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01116751269035533,
+              "left": 0.12220762155059132,
+              "page": 14,
+              "top": 0.5934010152284264,
+              "width": 0.5400788436268068,
+              "original_page": 14
+            },
+            "content": "How do emissions from gas flaring compare when we adjust for population?",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7344198256731034
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.029949238578680204,
+              "left": 0.12220762155059132,
+              "page": 14,
+              "top": 0.6248730964467005,
+              "width": 0.7542706964520368,
+              "original_page": 14
+            },
+            "content": "This interactive chart shows per capita CO2 emissions from gas flaring, measured in tonnes per person per year.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.5433695167303085
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.014720812182741117,
+              "left": 0.1228646517739816,
+              "page": 15,
+              "top": 0.0766497461928934,
+              "width": 0.4067017082785808,
+              "original_page": 15
+            },
+            "content": "Per capita CO2 emissions from flaring, 2023",
+            "type": "Title",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.39897414222359656
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.009137055837563452,
+              "left": 0.1228646517739816,
+              "page": 15,
+              "top": 0.09746192893401015,
+              "width": 0.49868593955321944,
+              "original_page": 15
+            },
+            "content": "Annual emissions of carbon dioxide (CO2) from flaring, measured in tonnes per person.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.3905521027743816
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.021662933814344067,
+              "left": 0.8852830202601429,
+              "page": 15,
+              "top": 0.07546408406368972,
+              "width": 0.06118241058229303,
+              "original_page": 15
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.48269248530268666
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.35159550390872857,
+              "left": 0.11885806671423292,
+              "page": 15,
+              "top": 0.11636553149537991,
+              "width": 0.832646012776158,
+              "original_page": 15
+            },
+            "content": "The image is a world map showing CO2 emissions per capita by country, represented with varying shades of orange. Darker shades indicate higher emissions, with a scale ranging from 0 to over 1 ton per person. Countries in the northern hemisphere and Australia exhibit higher emissions.",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7635442852973938
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02284263959390863,
+              "left": 0.12352168199737187,
+              "page": 15,
+              "top": 0.47715736040609136,
+              "width": 0.6754270696452037,
+              "original_page": 15
+            },
+            "content": "Data source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.609345805644989
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01313668652839467,
+              "left": 0.8441451645398735,
+              "page": 15,
+              "top": 0.48050289250872463,
+              "width": 0.016447490837508214,
+              "original_page": 15
+            },
+            "content": "→",
+            "type": "Figure",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.2061338946223259
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.008121827411167513,
+              "left": 0.9270696452036794,
+              "page": 15,
+              "top": 0.48375634517766497,
+              "width": 0.00788436268068331,
+              "original_page": 15
+            },
+            "content": "[",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4292016625404358
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007106598984771574,
+              "left": 0.46057818659658345,
+              "page": 15,
+              "top": 0.6223350253807106,
+              "width": 0.07687253613666228,
+              "original_page": 15
+            },
+            "content": "ENDNOTES",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8067223906517029
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04314720812182741,
+              "left": 0.21944809461235218,
+              "page": 15,
+              "top": 0.6817258883248731,
+              "width": 0.5420499342969777,
+              "original_page": 15
+            },
+            "content": "1. Zilio, M., & Recalde, M. (2011). GDP and environment pressure: the role of energy in Latin America and the Caribbean. Energy Policy, 39(12), 7941-7949. Available at: doi.org/10.1016/j.enpol.2011.09.049",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9522250443696976
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04314720812182741,
+              "left": 0.21813403416557162,
+              "page": 15,
+              "top": 0.7441624365482233,
+              "width": 0.5249671484888305,
+              "original_page": 15
+            },
+            "content": "2. Ali, M. B., Saidur, R., & Hossain, M. S. (2011). A review on emission analysis in cement industries. Renewable and Sustainable Energy Reviews, 15(5), 2252-2261. Available at: doi.org/10.1016/j.rser.2011.02.014",
+            "type": "List Item",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9433991283178329
+            },
+            "image_url": null
+          }
+        ],
+        "content": "# Annual CO2 emissions from cement\n\nAnnual emissions of carbon dioxide (CO2) from cement, measured in tonnes.\n\nOur World\nin Data\n\nThe image shows a line graph of CO2 emissions from 1800 to 2023 for China, India, the United States, South Africa, and Australia. China's emissions sharply increased after the 2000s, surpassing other countries. India's emissions also show a steady rise, while the emissions of the United States, South Africa, and Australia remain relatively stable.\n\n## Per capita CO2 emissions from cement\n\nHow do emissions from cement production compare when we adjust for population?\n\nThis interactive chart shows per capita CO2 emissions from cement production, measured in tonnes per person per year.\n\n# Per capita CO2 emissions from cement, 2023\n\nAnnual emissions of carbon dioxide (CO2) from cement, measured in tonnes per person.\n\nOur World\nin Data\n\nThe map illustrates global CO2 emissions per capita as of 2023, with darker shades indicating higher emissions. Countries like China and parts of the Middle East have the highest emissions per capita, while regions in Africa and South America show much lower levels. Areas with no data are marked in gray.\n\nData source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data → OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n[\n\n## Emissions from gas flaring\n\n## Annual CO2 emissions from gas flaring\n\nWhich countries are the largest CO2 emitters from gas flaring?\n\nThis interactive chart shows annual emissions from gas flaring by country, over time.\n\n## What is gas flaring?\n\nGas flaring is the burning of natural gas, often on oil or gas extraction sites.\n\nGas can be produced as a by-product during oil extraction and refining. If there are no on-site uses for the gas, refineries can either inject it back into the ground, let it vent to the atmosphere, or burn (i.e. flare) it. This flaring process produces greenhouse gas emissions.\n\n# Annual CO2 emissions from flaring\n\nAnnual emissions of carbon dioxide (CO2) from flaring, measured in tonnes.\n\nOur World\nin Data\n\nThe line graph shows CO₂ emissions from flaring for several regions from 1750 to 2023. The United States exhibits the highest fluctuation, peaking sharply around the 2000s. Other regions like the European Union, Canada, and Australia show relatively moderate increases over time.\n\n## Per capita CO2 emissions from gas flaring\n\nHow do emissions from gas flaring compare when we adjust for population?\n\nThis interactive chart shows per capita CO2 emissions from gas flaring, measured in tonnes per person per year.\n\n# Per capita CO2 emissions from flaring, 2023\n\nAnnual emissions of carbon dioxide (CO2) from flaring, measured in tonnes per person.\n\nOur World\nin Data\n\nThe image is a world map showing CO2 emissions per capita by country, represented with varying shades of orange. Darker shades indicate higher emissions, with a scale ranging from 0 to over 1 ton per person. Countries in the northern hemisphere and Australia exhibit higher emissions.\n\nData source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n→\n\n[\n\n## ENDNOTES\n\n1. Zilio, M., & Recalde, M. (2011). GDP and environment pressure: the role of energy in Latin America and the Caribbean. Energy Policy, 39(12), 7941-7949. Available at: doi.org/10.1016/j.enpol.2011.09.049\n\n2. Ali, M. B., Saidur, R., & Hossain, M. S. (2011). A review on emission analysis in cement industries. Renewable and Sustainable Energy Reviews, 15(5), 2252-2261. Available at: doi.org/10.1016/j.rser.2011.02.014",
+        "embed": "# Annual CO2 emissions from cement\n\nAnnual emissions of carbon dioxide (CO2) from cement, measured in tonnes.\n\nOur World\nin Data\n\nThe image shows a line graph of CO2 emissions from 1800 to 2023 for China, India, the United States, South Africa, and Australia. China's emissions sharply increased after the 2000s, surpassing other countries. India's emissions also show a steady rise, while the emissions of the United States, South Africa, and Australia remain relatively stable.\n\n## Per capita CO2 emissions from cement\n\nHow do emissions from cement production compare when we adjust for population?\n\nThis interactive chart shows per capita CO2 emissions from cement production, measured in tonnes per person per year.\n\n# Per capita CO2 emissions from cement, 2023\n\nAnnual emissions of carbon dioxide (CO2) from cement, measured in tonnes per person.\n\nOur World\nin Data\n\nThe map illustrates global CO2 emissions per capita as of 2023, with darker shades indicating higher emissions. Countries like China and parts of the Middle East have the highest emissions per capita, while regions in Africa and South America show much lower levels. Areas with no data are marked in gray.\n\nData source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data → OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n[\n\n## Emissions from gas flaring\n\n## Annual CO2 emissions from gas flaring\n\nWhich countries are the largest CO2 emitters from gas flaring?\n\nThis interactive chart shows annual emissions from gas flaring by country, over time.\n\n## What is gas flaring?\n\nGas flaring is the burning of natural gas, often on oil or gas extraction sites.\n\nGas can be produced as a by-product during oil extraction and refining. If there are no on-site uses for the gas, refineries can either inject it back into the ground, let it vent to the atmosphere, or burn (i.e. flare) it. This flaring process produces greenhouse gas emissions.\n\n# Annual CO2 emissions from flaring\n\nAnnual emissions of carbon dioxide (CO2) from flaring, measured in tonnes.\n\nOur World\nin Data\n\nThe line graph shows CO₂ emissions from flaring for several regions from 1750 to 2023. The United States exhibits the highest fluctuation, peaking sharply around the 2000s. Other regions like the European Union, Canada, and Australia show relatively moderate increases over time.\n\n## Per capita CO2 emissions from gas flaring\n\nHow do emissions from gas flaring compare when we adjust for population?\n\nThis interactive chart shows per capita CO2 emissions from gas flaring, measured in tonnes per person per year.\n\n# Per capita CO2 emissions from flaring, 2023\n\nAnnual emissions of carbon dioxide (CO2) from flaring, measured in tonnes per person.\n\nOur World\nin Data\n\nThe image is a world map showing CO2 emissions per capita by country, represented with varying shades of orange. Darker shades indicate higher emissions, with a scale ranging from 0 to over 1 ton per person. Countries in the northern hemisphere and Australia exhibit higher emissions.\n\nData source: Global Carbon Budget (2024); Population based on various sources (2024) - Learn more about this data OurWorldinData.org/co2-and-greenhouse-gas-emissions | CC BY\n\n→\n\n[\n\n## ENDNOTES\n\n1. Zilio, M., & Recalde, M. (2011). GDP and environment pressure: the role of energy in Latin America and the Caribbean. Energy Policy, 39(12), 7941-7949. Available at: doi.org/10.1016/j.enpol.2011.09.049\n\n2. Ali, M. B., Saidur, R., & Hossain, M. S. (2011). A review on emission analysis in cement industries. Renewable and Sustainable Energy Reviews, 15(5), 2252-2261. Available at: doi.org/10.1016/j.rser.2011.02.014",
+        "enriched": null,
+        "enrichment_success": false
+      },
+      {
+        "blocks": [
+          {
+            "bbox": {
+              "height": 0.01116751269035533,
+              "left": 0.44152431011826543,
+              "page": 15,
+              "top": 0.8822335025380711,
+              "width": 0.11826544021024968,
+              "original_page": 15
+            },
+            "content": "Cite this work",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9078049242496491
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0416243654822335,
+              "left": 0.2102496714848883,
+              "page": 15,
+              "top": 0.9142131979695431,
+              "width": 0.5624178712220762,
+              "original_page": 15
+            },
+            "content": "Our articles and data visualizations rely on work from many different people and organizations. When citing this article, please also cite the underlying data sources. This article can be cited as:",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9679764151573181
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.06954314720812182,
+              "left": 0.23587385019710908,
+              "page": 16,
+              "top": 0.050253807106598984,
+              "width": 0.435611038107753,
+              "original_page": 16
+            },
+            "content": "Hannah Ritchie, Pablo Rosado, and Max Roser (2020)\n\"CO2 emissions by fuel\" Published online at\nOurWorldinData.org. Retrieved from:\n'https://ourworldindata.org/emissions-by-fuel'\n[Online Resource]",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.891566127538681
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.013317596125723747,
+              "left": 0.7429333961276281,
+              "page": 16,
+              "top": 0.05393978448083558,
+              "width": 0.015344928034658345,
+              "original_page": 16
+            },
+            "content": "",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.25934536308050155
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.007614213197969543,
+              "left": 0.21090670170827858,
+              "page": 16,
+              "top": 0.15076142131979695,
+              "width": 0.09461235216819974,
+              "original_page": 16
+            },
+            "content": "BibTeX citation",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.681978452205658
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.1284263959390863,
+              "left": 0.2352168199737188,
+              "page": 16,
+              "top": 0.19035532994923857,
+              "width": 0.4559789750328515,
+              "original_page": 16
+            },
+            "content": "@article{owid-emissions-by-fuel,\nauthor = {Hannah Ritchie and Pablo Rosado and\nMax Roser},\ntitle = {CO2 emissions by fuel},\njournal = {Our World in Data},\nyear = {2020},\nnote = {https://ourworldindata.org/emissions-by-\nfuel}\n}",
+            "type": "Text",
+            "confidence": "low",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.591333694756031
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.012379602732392131,
+              "left": 0.7428843113501971,
+              "page": 16,
+              "top": 0.1950952984959946,
+              "width": 0.014781094725279238,
+              "original_page": 16
+            },
+            "content": "",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.15696152076125144
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.04765739634557424,
+              "left": 0.44500596075271026,
+              "page": 16,
+              "top": 0.4173249375396574,
+              "width": 0.11084349302675345,
+              "original_page": 16
+            },
+            "content": "Our World\nin Data",
+            "type": "Figure",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4409934528172016
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.013197969543147208,
+              "left": 0.4060446780551905,
+              "page": 16,
+              "top": 0.48934010152284263,
+              "width": 0.18791064388961892,
+              "original_page": 16
+            },
+            "content": "Reuse this work freely",
+            "type": "Section Header",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8119719326496124
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05786802030456853,
+              "left": 0.22536136662286466,
+              "page": 16,
+              "top": 0.5218274111675127,
+              "width": 0.5473061760840998,
+              "original_page": 16
+            },
+            "content": "All visualizations, data, and code produced by Our World in Data are completely open access under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.962553858757019
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05939086294416244,
+              "left": 0.2102496714848883,
+              "page": 16,
+              "top": 0.5989847715736041,
+              "width": 0.5788436268068331,
+              "original_page": 16
+            },
+            "content": "The data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our documentation, so you should always check the license of any such third-party data before use and redistribution.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9644927471876145
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01015228426395939,
+              "left": 0.3528252299605782,
+              "page": 16,
+              "top": 0.6756345177664974,
+              "width": 0.29303547963206306,
+              "original_page": 16
+            },
+            "content": "All of our charts can be embedded in any site.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9278032630681992
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03451776649746193,
+              "left": 0.2752956636005256,
+              "page": 16,
+              "top": 0.7578680203045686,
+              "width": 0.4487516425755585,
+              "original_page": 16
+            },
+            "content": "Our World in Data is free and accessible for everyone. Help us do this work by making a donation.",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9319627463817596
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.008629441624365483,
+              "left": 0.46057818659658345,
+              "page": 16,
+              "top": 0.8182741116751269,
+              "width": 0.07752956636005257,
+              "original_page": 16
+            },
+            "content": "Donate now",
+            "type": "Text",
+            "confidence": "high",
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9007512629032135
+            },
+            "image_url": null
+          }
+        ],
+        "content": "## Cite this work\n\nOur articles and data visualizations rely on work from many different people and organizations. When citing this article, please also cite the underlying data sources. This article can be cited as:\n\nHannah Ritchie, Pablo Rosado, and Max Roser (2020)\n\"CO2 emissions by fuel\" Published online at\nOurWorldinData.org. Retrieved from:\n'https://ourworldindata.org/emissions-by-fuel'\n[Online Resource]\n\n\n\nBibTeX citation\n\n@article{owid-emissions-by-fuel,\nauthor = {Hannah Ritchie and Pablo Rosado and\nMax Roser},\ntitle = {CO2 emissions by fuel},\njournal = {Our World in Data},\nyear = {2020},\nnote = {https://ourworldindata.org/emissions-by-\nfuel}\n}\n\n\n\nOur World\nin Data\n\n## Reuse this work freely\n\nAll visualizations, data, and code produced by Our World in Data are completely open access under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.\n\nThe data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our documentation, so you should always check the license of any such third-party data before use and redistribution.\n\nAll of our charts can be embedded in any site.\n\nOur World in Data is free and accessible for everyone. Help us do this work by making a donation.\n\nDonate now",
+        "embed": "## Cite this work\n\nOur articles and data visualizations rely on work from many different people and organizations. When citing this article, please also cite the underlying data sources. This article can be cited as:\n\nHannah Ritchie, Pablo Rosado, and Max Roser (2020)\n\"CO2 emissions by fuel\" Published online at\nOurWorldinData.org. Retrieved from:\n'https://ourworldindata.org/emissions-by-fuel'\n[Online Resource]\n\n\n\nBibTeX citation\n\n@article{owid-emissions-by-fuel,\nauthor = {Hannah Ritchie and Pablo Rosado and\nMax Roser},\ntitle = {CO2 emissions by fuel},\njournal = {Our World in Data},\nyear = {2020},\nnote = {https://ourworldindata.org/emissions-by-\nfuel}\n}\n\n\n\nOur World\nin Data\n\n## Reuse this work freely\n\nAll visualizations, data, and code produced by Our World in Data are completely open access under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.\n\nThe data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our documentation, so you should always check the license of any such third-party data before use and redistribution.\n\nAll of our charts can be embedded in any site.\n\nOur World in Data is free and accessible for everyone. Help us do this work by making a donation.\n\nDonate now",
+        "enriched": null,
+        "enrichment_success": false
+      }
+    ],
+    "type": "full",
+    "custom": null,
+    "ocr": null
+  },
+  "usage": {
+    "num_pages": 16,
+    "credits": 15.0
+  },
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/9b189760-6735-43ff-9ec3-b80339adc846.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2UOK6OVBOUYL7WYA%2F20251008%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251008T123639Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ee5af16b01880faaec200262369a171992aacd4100b547dd663c383b7252516b",
+  "studio_link": "https://studio.reducto.ai/job/a9bbe303-6262-45b6-9c85-113cbe382c3c"
+}
