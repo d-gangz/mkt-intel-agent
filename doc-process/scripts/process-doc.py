@@ -12,6 +12,7 @@ import json
 import random
 import shutil
 import string
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -95,15 +96,17 @@ def process_single_document(
     Returns:
         True if processing succeeded, False otherwise
     """
+    doc_name = file_path.name
+
     try:
-        print(f"\n📄 Processing: {file_path.name}")
+        print(f"\n📄 [{doc_name}] Starting processing...")
 
         # Upload the document
-        print("   ⬆️  Uploading to Reducto...")
+        print(f"   ⬆️  [{doc_name}] Uploading to Reducto...")
         upload_response = client.upload(file=file_path)
 
         # Parse the document
-        print("   🔄 Parsing document...")
+        print(f"   🔄 [{doc_name}] Parsing document...")
         result = client.parse.run(
             document_url=upload_response,  # type: ignore[arg-type]
             options={
@@ -121,36 +124,43 @@ def process_single_document(
 
         # Save raw form
         raw_output_file = dirs["raw_form"] / f"{file_path.stem}.json"
-        print(f"   💾 Saving raw result to: {raw_output_file.name}")
+        print(f"   💾 [{doc_name}] Saving raw result to: {raw_output_file.name}")
         with open(raw_output_file, "w", encoding="utf-8") as f:
             json.dump(raw_result, f, indent=2, ensure_ascii=False)
 
         # Create and save chunk form
         chunk_data = create_chunk_form(raw_result, file_path.name)
         chunk_output_file = dirs["chunk_form"] / f"c-{file_path.stem}.json"
-        print(f"   💾 Saving chunk form to: {chunk_output_file.name}")
+        print(f"   💾 [{doc_name}] Saving chunk form to: {chunk_output_file.name}")
         with open(chunk_output_file, "w", encoding="utf-8") as f:
             json.dump(chunk_data, f, indent=2, ensure_ascii=False)
 
         # Move to processed folder
         processed_path = dirs["processed"] / file_path.name
-        print("   📦 Moving to processed folder...")
+        print(f"   📦 [{doc_name}] Moving to processed folder...")
         shutil.move(str(file_path), str(processed_path))
 
         # Print summary
         num_chunks = len(raw_result["result"]["chunks"])
         num_pages = raw_result["usage"]["num_pages"]
-        print(f"   ✅ Complete! {num_chunks} chunks created from {num_pages} page(s)")
+        print(
+            f"   ✅ [{doc_name}] Complete! {num_chunks} chunks created from {num_pages} page(s)"
+        )
 
         return True
 
     except Exception as e:
-        print(f"   ❌ Error processing {file_path.name}: {e}")
+        print(f"   ❌ [{doc_name}] Error: {e}")
         return False
 
 
-def process_documents():
-    """Process all unprocessed documents in the docs/unprocessed folder."""
+def process_documents(max_workers: int = 5):
+    """
+    Process all unprocessed documents in the docs/unprocessed folder.
+
+    Args:
+        max_workers: Maximum number of documents to process in parallel (default: 5)
+    """
 
     # Initialize Reducto client
     client = Reducto()
@@ -176,13 +186,26 @@ def process_documents():
         return
 
     print(f"\n🔍 Found {len(unprocessed_files)} document(s) to process")
+    print(f"⚡ Processing up to {max_workers} documents in parallel")
     print("=" * 60)
 
-    # Process each document
+    # Process documents in parallel using ThreadPoolExecutor
     success_count = 0
-    for file_path in unprocessed_files:
-        if process_single_document(file_path, client, dirs):
-            success_count += 1
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Submit all tasks
+        future_to_file = {
+            executor.submit(process_single_document, file_path, client, dirs): file_path
+            for file_path in unprocessed_files
+        }
+
+        # Process completed tasks as they finish
+        for future in as_completed(future_to_file):
+            file_path = future_to_file[future]
+            try:
+                if future.result():
+                    success_count += 1
+            except Exception as e:
+                print(f"   ❌ Unexpected error processing {file_path.name}: {e}")
 
     # Print final summary
     print("\n" + "=" * 60)

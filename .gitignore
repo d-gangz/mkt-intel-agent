@@ -35,3 +35,11 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+# Document Processing
+# Ignore all documents in the docs folder (PDFs, DOCX, etc.)
+doc-process/docs/unprocessed/*
+doc-process/docs/processed/*
+# Keep the directory structure
+!doc-process/docs/unprocessed/.gitkeep
+!doc-process/docs/processed/.gitkeep
