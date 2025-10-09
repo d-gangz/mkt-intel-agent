@@ -16,9 +16,9 @@ import pandas as pd
 
 
 # Directory paths
-UNPROCESSED_DIR = Path(__file__).parent / "data" / "unprocessed"
-PROCESSED_DIR = Path(__file__).parent / "data" / "processed"
-DATABASE_DIR = Path(__file__).parent / "databases"
+UNPROCESSED_DIR = Path(__file__).parent.parent / "data" / "unprocessed"
+PROCESSED_DIR = Path(__file__).parent.parent / "data" / "processed"
+DATABASE_DIR = Path(__file__).parent.parent / "databases"
 
 
 def ensure_directories():
@@ -65,7 +65,9 @@ def convert_xlsx_to_db(xlsx_path: Path, db_path: Path) -> None:
     excel_file = pd.ExcelFile(xlsx_path)
     sheet_names = excel_file.sheet_names
 
-    print(f"  Found {len(sheet_names)} sheets: {', '.join(sheet_names)}")
+    print(
+        f"  Found {len(sheet_names)} sheets: {', '.join(str(s) for s in sheet_names)}"
+    )
 
     # Create SQLite database
     conn = sqlite3.connect(db_path)
@@ -74,14 +76,16 @@ def convert_xlsx_to_db(xlsx_path: Path, db_path: Path) -> None:
         for sheet_name in sheet_names:
             # Read each sheet
             df = pd.read_excel(excel_file, sheet_name=sheet_name)
+            # Convert sheet name to string to ensure type safety
+            table_name = str(sheet_name)
             print(
-                f"    - Sheet '{sheet_name}': {df.shape[0]} rows, {df.shape[1]} columns"
+                f"    - Sheet '{table_name}': {df.shape[0]} rows, {df.shape[1]} columns"
             )
 
             # Use sheet name as table name
             # Note: SQLite table names are case-sensitive
-            df.to_sql(sheet_name, conn, if_exists="replace", index=False)
-            print(f"      ✓ Created table '{sheet_name}' with {df.shape[0]} rows")
+            df.to_sql(table_name, conn, if_exists="replace", index=False)
+            print(f"      ✓ Created table '{table_name}' with {df.shape[0]} rows")
     finally:
         conn.close()
 

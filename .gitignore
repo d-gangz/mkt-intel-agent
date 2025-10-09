@@ -43,3 +43,11 @@ doc-process/docs/processed/*
 # Keep the directory structure
 !doc-process/docs/unprocessed/.gitkeep
 !doc-process/docs/processed/.gitkeep
+
+# Data Processing
+# Ignore all data files (CSV, XLSX, etc.)
+data-process/data/unprocessed/*
+data-process/data/processed/*
+# Keep the directory structure
+!data-process/data/unprocessed/.gitkeep
+!data-process/data/processed/.gitkeep
